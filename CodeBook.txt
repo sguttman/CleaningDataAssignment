@@ -1,0 +1,67 @@
+CleaningDataAssignment
+----------------------
+This is the final assignment for the Coursera "Getting and Cleaning Data" class. The assignment consists of processing raw accelerometer data from a Samsung Galaxy 5 smartphone and creating summary data that is tidy.
+
+Study Design
+----------------------
+Information from this study come from: Human Activity Recognition Using Smartphones Dataset:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Study authors:
+
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Università degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
+
+The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
+
+The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details.
+
+Archive Files
+---------------------
+1. Raw data for the study is contained in the file fitData.zip. However, this raw data file is not needed unless you are offline. The script will automatically download the data file if it is not available locally.
+2. Script for cleaning and tidying data is contained in run_analysis.R
+3. tidydata.txt - the tidy data file
+
+Code Book
+-------------------------
+ABOUT THE TIDY DATA FILE
+The tidy data file is in the "narrow" format for tidy data. It contains 6 dimensions:
+1) activity - walking, sitting, standing, etc
+2) subject - test or train, whether the measurment came from the test or training data set
+3) measurement - the particular measurement made, such as tBodyAcc, tBodyGyro, etc
+4) statistic - mean or std (standard deviation)
+5) dimension - x, y, z or "mag" indicating the euclidean norm of the combined x,y,z vectors
+6) value - the value of this observation. Units depend on the measurement and are listed below
+
+VARIABLES & UNITS
+The following variables exist in the tidy file (under the measurement variable):
+tBodyAcc: body linear acceleration in g's (9.80665 m/sec2)
+tGravityAcc: gravity acceleration in g's
+tBodyAccJerk: body jerk linear acceleration in g's (9.80665 m/sec2)
+tBodyGyro: body angular velocity in radians/sec2
+tBodyGyroJerk: body jerk angular velocity in radians/sec2
+tBodyAccMag: euclidian norm of body linear acceleration in g's
+tGravityAccMag:  euclidian norm of gravity linear acceleration in g's
+tBodyAccJerkMag:  euclidian norm of body jerk linear acceleration in g's
+tBodyGyroMag: euclidian norm of body angular velocity in radians/sec2
+tBodyGyroJerkMag: euclidian norm of body jerk angular velocity in radians/sec2
+fBodyAcc: FFT transformed body linear acceleration in g's (9.80665 m/sec2)
+fBodyAccJerk: FFT transformed body jerk linear acceleration in g's (9.80665 m/sec2)
+fBodyGyro: FFT transformed body angular velocity in radians/sec2
+fBodyAccMag: FFT transformed euclidian norm of body linear acceleration in g's
+fBodyBodyAccJerkMag: FFT transformed euclidian norm of body jerk linear acceleration in g's
+fBodyBodyGyroMag: FFT transformed euclidian norm of body angular velocity in radians/sec2
+fBodyBodyGyroJerkMag: FFT transformed euclidian norm of body jerk angular velocity in radians/sec2
+
+Tidy script - run_analysis.R
+-------------------------------
+The script performs the following steps:
+- Creates a directory "CleaningAssignment" if it doesn't exist and sets it to be the working directory
+- Checks to see if the data file fitData.zip is local. If not it downloads it
+- Extracts the relevant training, test and label files directly from the zip archive
+- Labels the data appropriately, according to the various label files and labels observations as being from either test or train data sets
+- Combines test and training data files and refactors activity numbers with activity names
+- Removes all measurements not related to mean or standard deviation
+- Aggregates numerical data by activity and subject using mean fucntion
+- Creates narrow data set by moving measurement variable to "measurement" and "value" columns
+- Creates additional columns by parsing measurement variables for dimension (x,y,z,mag) and statistic (mean, sd)
+
