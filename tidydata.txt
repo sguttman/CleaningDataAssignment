@@ -1,793 +1,793 @@
 "activity" "subject" "measurement" "statistic" "dimension" "value"
-"1" "walking" "test" "tBodyAcc" "mean" "X" 0.276526397258064
-"2" "walking_upstairs" "test" "tBodyAcc" "mean" "X" 0.263126445989384
-"3" "walking_downstairs" "test" "tBodyAcc" "mean" "X" 0.288062900461905
-"4" "sitting" "test" "tBodyAcc" "mean" "X" 0.272039760352342
-"5" "standing" "test" "tBodyAcc" "mean" "X" 0.278791235789474
-"6" "laying" "test" "tBodyAcc" "mean" "X" 0.267227589560521
-"7" "walking" "train" "tBodyAcc" "mean" "X" 0.276260200872757
-"8" "walking_upstairs" "train" "tBodyAcc" "mean" "X" 0.261929527252004
-"9" "walking_downstairs" "train" "tBodyAcc" "mean" "X" 0.288168888475659
-"10" "sitting" "train" "tBodyAcc" "mean" "X" 0.273448998825428
-"11" "standing" "train" "tBodyAcc" "mean" "X" 0.279293757074236
-"12" "laying" "train" "tBodyAcc" "mean" "X" 0.26919100708877
-"13" "walking" "test" "tBodyAcc" "mean" "Y" -0.018250712002498
-"14" "walking_upstairs" "test" "tBodyAcc" "mean" "Y" -0.0242744604190291
-"15" "walking_downstairs" "test" "tBodyAcc" "mean" "Y" -0.0161751510247702
-"16" "sitting" "test" "tBodyAcc" "mean" "Y" -0.0141221515132994
-"17" "standing" "test" "tBodyAcc" "mean" "Y" -0.0162262731035301
-"18" "laying" "test" "tBodyAcc" "mean" "Y" -0.0182456228329236
-"19" "walking" "train" "tBodyAcc" "mean" "Y" -0.0177677108511182
-"20" "walking_upstairs" "train" "tBodyAcc" "mean" "Y" -0.0266470525735974
-"21" "walking_downstairs" "train" "tBodyAcc" "mean" "Y" -0.0163701864217556
-"22" "sitting" "train" "tBodyAcc" "mean" "Y" -0.0121426088459798
-"23" "standing" "train" "tBodyAcc" "mean" "Y" -0.0161230846636681
-"24" "laying" "train" "tBodyAcc" "mean" "Y" -0.0183452479771855
-"25" "walking" "test" "tBodyAcc" "mean" "Z" -0.108875750766129
-"26" "walking_upstairs" "test" "tBodyAcc" "mean" "Z" -0.120798485155414
-"27" "walking_downstairs" "test" "tBodyAcc" "mean" "Z" -0.105529914174286
-"28" "sitting" "test" "tBodyAcc" "mean" "Z" -0.102730909698778
-"29" "standing" "test" "tBodyAcc" "mean" "Z" -0.10466868287406
-"30" "laying" "test" "tBodyAcc" "mean" "Z" -0.108134996675233
-"31" "walking" "train" "tBodyAcc" "mean" "Z" -0.108884089505465
-"32" "walking_upstairs" "train" "tBodyAcc" "mean" "Z" -0.120423564420037
-"33" "walking_downstairs" "train" "tBodyAcc" "mean" "Z" -0.105860325152107
-"34" "sitting" "train" "tBodyAcc" "mean" "Z" -0.106580744993313
-"35" "standing" "train" "tBodyAcc" "mean" "Z" -0.10732962785709
-"36" "laying" "train" "tBodyAcc" "mean" "Z" -0.107168709636461
-"37" "walking" "test" "tGravityAcc" "mean" "X" 0.939130584415323
-"38" "walking_upstairs" "test" "tGravityAcc" "mean" "X" 0.880983929469214
-"39" "walking_downstairs" "test" "tGravityAcc" "mean" "X" 0.931437114714286
-"40" "sitting" "test" "tGravityAcc" "mean" "X" 0.9028616299389
-"41" "standing" "test" "tGravityAcc" "mean" "X" 0.943091097537594
-"42" "laying" "test" "tGravityAcc" "mean" "X" -0.385937754614525
-"43" "walking" "train" "tGravityAcc" "mean" "X" 0.933317070057096
-"44" "walking_upstairs" "train" "tGravityAcc" "mean" "X" 0.872378174930103
-"45" "walking_downstairs" "train" "tGravityAcc" "mean" "X" 0.924336230375254
-"46" "sitting" "train" "tGravityAcc" "mean" "X" 0.870899899300156
-"47" "standing" "train" "tGravityAcc" "mean" "X" 0.940855692081514
-"48" "laying" "train" "tGravityAcc" "mean" "X" -0.370854938686567
-"49" "walking" "test" "tGravityAcc" "mean" "Y" -0.189780957912097
-"50" "walking_upstairs" "test" "tGravityAcc" "mean" "Y" -0.268759574031847
-"51" "walking_downstairs" "test" "tGravityAcc" "mean" "Y" -0.171822241287476
-"52" "sitting" "test" "tGravityAcc" "mean" "Y" 0.071857995734034
-"53" "standing" "test" "tGravityAcc" "mean" "Y" -0.189637522767538
-"54" "laying" "test" "tGravityAcc" "mean" "Y" 0.594350912979516
-"55" "walking" "train" "tGravityAcc" "mean" "Y" -0.199518178897227
-"56" "walking_upstairs" "train" "tGravityAcc" "mean" "Y" -0.28691577583411
-"57" "walking_downstairs" "train" "tGravityAcc" "mean" "Y" -0.167095144852028
-"58" "sitting" "train" "tGravityAcc" "mean" "Y" 0.122785136286184
-"59" "standing" "train" "tGravityAcc" "mean" "Y" -0.182159165492402
-"60" "laying" "train" "tGravityAcc" "mean" "Y" 0.632926187069652
-"61" "walking" "test" "tGravityAcc" "mean" "Z" -0.0264384787160887
-"62" "walking_upstairs" "test" "tGravityAcc" "mean" "Z" -0.123669693229008
-"63" "walking_downstairs" "test" "tGravityAcc" "mean" "Z" -0.038043391203381
-"64" "sitting" "test" "tGravityAcc" "mean" "Z" 0.131904738775356
-"65" "standing" "test" "tGravityAcc" "mean" "Z" 0.0204009151990789
-"66" "laying" "test" "tGravityAcc" "mean" "Z" 0.503317463620112
-"67" "walking" "train" "tGravityAcc" "mean" "Z" -0.0649048773550457
-"68" "walking_upstairs" "train" "tGravityAcc" "mean" "Z" -0.148313217708166
-"69" "walking_downstairs" "train" "tGravityAcc" "mean" "Z" -0.0521996569589989
-"70" "sitting" "train" "tGravityAcc" "mean" "Z" 0.162123894662294
-"71" "standing" "train" "tGravityAcc" "mean" "Z" -0.0273917941389855
-"72" "laying" "train" "tGravityAcc" "mean" "Z" 0.57557155056091
-"73" "walking" "test" "tBodyAccJerk" "mean" "X" 0.0731737339316129
-"74" "walking_upstairs" "test" "tBodyAccJerk" "mean" "X" 0.0734505822969214
-"75" "walking_downstairs" "test" "tBodyAccJerk" "mean" "X" 0.0916206223598452
-"76" "sitting" "test" "tBodyAccJerk" "mean" "X" 0.076153849587169
-"77" "standing" "test" "tBodyAccJerk" "mean" "X" 0.075468957712782
-"78" "laying" "test" "tBodyAccJerk" "mean" "X" 0.0825682671290503
-"79" "walking" "train" "tBodyAccJerk" "mean" "X" 0.0781529317778793
-"80" "walking_upstairs" "train" "tBodyAccJerk" "mean" "X" 0.0781685444347158
-"81" "walking_downstairs" "train" "tBodyAccJerk" "mean" "X" 0.0882069647409736
-"82" "sitting" "train" "tBodyAccJerk" "mean" "X" 0.0757738529781182
-"83" "standing" "train" "tBodyAccJerk" "mean" "X" 0.07485715063377
-"84" "laying" "train" "tBodyAccJerk" "mean" "X" 0.0815722575616205
-"85" "walking" "test" "tBodyAccJerk" "mean" "Y" 0.00998238899389113
-"86" "walking_upstairs" "test" "tBodyAccJerk" "mean" "Y" 0.00490440295949045
-"87" "walking_downstairs" "test" "tBodyAccJerk" "mean" "Y" -0.00322121589102381
-"88" "sitting" "test" "tBodyAccJerk" "mean" "Y" 0.00523557345498982
-"89" "standing" "test" "tBodyAccJerk" "mean" "Y" 0.00888523101716541
-"90" "laying" "test" "tBodyAccJerk" "mean" "Y" 0.0107112016761881
-"91" "walking" "train" "tBodyAccJerk" "mean" "Y" 0.0121226741316897
-"92" "walking_upstairs" "train" "tBodyAccJerk" "mean" "Y" 0.0104508404666636
-"93" "walking_downstairs" "train" "tBodyAccJerk" "mean" "Y" 0.00243695730748479
-"94" "sitting" "train" "tBodyAccJerk" "mean" "Y" 0.00497487103109658
-"95" "standing" "train" "tBodyAccJerk" "mean" "Y" 0.00877429407298399
-"96" "laying" "train" "tBodyAccJerk" "mean" "Y" 0.0113483623410661
-"97" "walking" "test" "tBodyAccJerk" "mean" "Z" 0.00123049294354839
-"98" "walking_upstairs" "test" "tBodyAccJerk" "mean" "Z" -0.00709425056157112
-"99" "walking_downstairs" "test" "tBodyAccJerk" "mean" "Z" -0.00838420495773809
-"100" "sitting" "test" "tBodyAccJerk" "mean" "Z" -0.00410731471661263
-"101" "standing" "test" "tBodyAccJerk" "mean" "Z" -0.00641548605615977
-"102" "laying" "test" "tBodyAccJerk" "mean" "Z" -0.00364736361863873
-"103" "walking" "train" "tBodyAccJerk" "mean" "Z" -0.00375555256860604
-"104" "walking_upstairs" "train" "tBodyAccJerk" "mean" "Z" -0.0055333909217521
-"105" "walking_downstairs" "train" "tBodyAccJerk" "mean" "Z" -0.00887530540913793
-"106" "sitting" "train" "tBodyAccJerk" "mean" "Z" -0.00186788827412442
-"107" "standing" "train" "tBodyAccJerk" "mean" "Z" -0.00387217635462227
-"108" "laying" "train" "tBodyAccJerk" "mean" "Z" -0.00532249999608209
-"109" "walking" "test" "tBodyGyro" "mean" "X" -0.0433151675165726
-"110" "walking_upstairs" "test" "tBodyGyro" "mean" "X" -0.0252961131944798
-"111" "walking_downstairs" "test" "tBodyGyro" "mean" "X" -0.101341612095476
-"112" "sitting" "test" "tBodyGyro" "mean" "X" -0.0400046946661914
-"113" "standing" "test" "tBodyGyro" "mean" "X" -0.0276270984325752
-"114" "laying" "test" "tBodyGyro" "mean" "X" -0.0166314081294004
-"115" "walking" "train" "tBodyGyro" "mean" "X" -0.0312533147691762
-"116" "walking_upstairs" "train" "tBodyGyro" "mean" "X" 0.0209240364789655
-"117" "walking_downstairs" "train" "tBodyGyro" "mean" "X" -0.0766623641270639
-"118" "sitting" "train" "tBodyGyro" "mean" "X" -0.0378305948293904
-"119" "standing" "train" "tBodyGyro" "mean" "X" -0.0263231980185808
-"120" "laying" "train" "tBodyGyro" "mean" "X" -0.0167611908027991
-"121" "walking" "test" "tBodyGyro" "mean" "Y" -0.0647420858230101
-"122" "walking_upstairs" "test" "tBodyGyro" "mean" "Y" -0.0693319879901062
-"123" "walking_downstairs" "test" "tBodyGyro" "mean" "Y" -0.0461447231649762
-"124" "sitting" "test" "tBodyGyro" "mean" "Y" -0.0703346296040733
-"125" "standing" "test" "tBodyGyro" "mean" "Y" -0.0719404272818233
-"126" "laying" "test" "tBodyGyro" "mean" "Y" -0.0979956312043575
-"127" "walking" "train" "tBodyGyro" "mean" "Y" -0.0713125942324959
-"128" "walking_upstairs" "train" "tBodyGyro" "mean" "Y" -0.0969463358755993
-"129" "walking_downstairs" "train" "tBodyGyro" "mean" "Y" -0.0559099218163377
-"130" "sitting" "train" "tBodyGyro" "mean" "Y" -0.0728027807545334
-"131" "standing" "train" "tBodyGyro" "mean" "Y" -0.0660746057299709
-"132" "laying" "train" "tBodyGyro" "mean" "Y" -0.091660815198081
-"133" "walking" "test" "tBodyGyro" "mean" "Z" 0.0917220728034476
-"134" "walking_upstairs" "test" "tBodyGyro" "mean" "Z" 0.0844374813053079
-"135" "walking_downstairs" "test" "tBodyGyro" "mean" "Z" 0.0964457295442619
-"136" "sitting" "test" "tBodyGyro" "mean" "Z" 0.0759514418063747
-"137" "standing" "test" "tBodyGyro" "mean" "Z" 0.0836650240665414
-"138" "laying" "test" "tBodyGyro" "mean" "Z" 0.122576525847486
-"139" "walking" "train" "tBodyGyro" "mean" "Z" 0.0841943988581277
-"140" "walking_upstairs" "train" "tBodyGyro" "mean" "Z" 0.0491202105442125
-"141" "walking_downstairs" "train" "tBodyGyro" "mean" "Z" 0.0939252913958722
-"142" "sitting" "train" "tBodyGyro" "mean" "Z" 0.0784742074521695
-"143" "standing" "train" "tBodyGyro" "mean" "Z" 0.0787782501328239
-"144" "laying" "train" "tBodyGyro" "mean" "Z" 0.127147917707889
-"145" "walking" "test" "tBodyGyroJerk" "mean" "X" -0.0878835560618952
-"146" "walking_upstairs" "test" "tBodyGyroJerk" "mean" "X" -0.104105469604607
-"147" "walking_downstairs" "test" "tBodyGyroJerk" "mean" "X" -0.0695720976611905
-"148" "sitting" "test" "tBodyGyroJerk" "mean" "X" -0.0948832319185336
-"149" "standing" "test" "tBodyGyroJerk" "mean" "X" -0.100461129155075
-"150" "laying" "test" "tBodyGyroJerk" "mean" "X" -0.101457328947858
-"151" "walking" "train" "tBodyGyroJerk" "mean" "X" -0.0968968860162643
-"152" "walking_upstairs" "train" "tBodyGyroJerk" "mean" "X" -0.115634379434529
-"153" "walking_downstairs" "train" "tBodyGyroJerk" "mean" "X" -0.0742508688621095
-"154" "sitting" "train" "tBodyGyroJerk" "mean" "X" -0.0959456649824261
-"155" "standing" "train" "tBodyGyroJerk" "mean" "X" -0.0994459157848617
-"156" "laying" "train" "tBodyGyroJerk" "mean" "X" -0.102019624959062
-"157" "walking" "test" "tBodyGyroJerk" "mean" "Y" -0.0452121990068548
-"158" "walking_upstairs" "test" "tBodyGyroJerk" "mean" "Y" -0.0370180926612527
-"159" "walking_downstairs" "test" "tBodyGyroJerk" "mean" "Y" -0.0496904002757143
-"160" "sitting" "test" "tBodyGyroJerk" "mean" "Y" -0.0412598892004073
-"161" "standing" "test" "tBodyGyroJerk" "mean" "Y" -0.0419899598712406
-"162" "laying" "test" "tBodyGyroJerk" "mean" "Y" -0.03801389731527
-"163" "walking" "train" "tBodyGyroJerk" "mean" "Y" -0.0443103427345922
-"164" "walking_upstairs" "train" "tBodyGyroJerk" "mean" "Y" -0.0393221127075303
-"165" "walking_downstairs" "train" "tBodyGyroJerk" "mean" "Y" -0.0519342665009533
-"166" "sitting" "train" "tBodyGyroJerk" "mean" "Y" -0.0405964730900187
-"167" "standing" "train" "tBodyGyroJerk" "mean" "Y" -0.0424437794962882
-"168" "laying" "train" "tBodyGyroJerk" "mean" "Y" -0.0382683832088763
-"169" "walking" "test" "tBodyGyroJerk" "mean" "Z" -0.0579666753374798
-"170" "walking_upstairs" "test" "tBodyGyroJerk" "mean" "Z" -0.0539430325613588
-"171" "walking_downstairs" "test" "tBodyGyroJerk" "mean" "Z" -0.0588719525257143
-"172" "sitting" "test" "tBodyGyroJerk" "mean" "Z" -0.0493232638925051
-"173" "standing" "test" "tBodyGyroJerk" "mean" "Z" -0.0528522741647744
-"174" "laying" "test" "tBodyGyroJerk" "mean" "Z" -0.0634655948080075
-"175" "walking" "train" "tBodyGyroJerk" "mean" "Z" -0.0524042952439478
-"176" "walking_upstairs" "train" "tBodyGyroJerk" "mean" "Z" -0.0519831673859832
-"177" "walking_downstairs" "train" "tBodyGyroJerk" "mean" "Z" -0.052917414205284
-"178" "sitting" "train" "tBodyGyroJerk" "mean" "Z" -0.0513023722602862
-"179" "standing" "train" "tBodyGyroJerk" "mean" "Z" -0.0518025512964192
-"180" "laying" "train" "tBodyGyroJerk" "mean" "Z" -0.0639964642257285
-"181" "walking" "test" "tBodyAccMag" "mean" "mag" -0.185612933587746
-"182" "walking_upstairs" "test" "tBodyAccMag" "mean" "mag" -0.156596937200552
-"183" "walking_downstairs" "test" "tBodyAccMag" "mean" "mag" 0.0164621317664286
-"184" "sitting" "test" "tBodyAccMag" "mean" "mag" -0.953534394704684
-"185" "standing" "test" "tBodyAccMag" "mean" "mag" -0.947440893270677
-"186" "laying" "test" "tBodyAccMag" "mean" "mag" -0.961578850614525
-"187" "walking" "train" "tBodyAccMag" "mean" "mag" -0.16078708767832
-"188" "walking_upstairs" "train" "tBodyAccMag" "mean" "mag" -0.0754501490696831
-"189" "walking_downstairs" "train" "tBodyAccMag" "mean" "mag" 0.137366108163682
-"190" "sitting" "train" "tBodyAccMag" "mean" "mag" -0.955067543234837
-"191" "standing" "train" "tBodyAccMag" "mean" "mag" -0.95678885018195
-"192" "laying" "train" "tBodyAccMag" "mean" "mag" -0.933298701817342
-"193" "walking" "test" "tGravityAccMag" "mean" "mag" -0.185612933587746
-"194" "walking_upstairs" "test" "tGravityAccMag" "mean" "mag" -0.156596937200552
-"195" "walking_downstairs" "test" "tGravityAccMag" "mean" "mag" 0.0164621317664286
-"196" "sitting" "test" "tGravityAccMag" "mean" "mag" -0.953534394704684
-"197" "standing" "test" "tGravityAccMag" "mean" "mag" -0.947440893270677
-"198" "laying" "test" "tGravityAccMag" "mean" "mag" -0.961578850614525
-"199" "walking" "train" "tGravityAccMag" "mean" "mag" -0.16078708767832
-"200" "walking_upstairs" "train" "tGravityAccMag" "mean" "mag" -0.0754501490696831
-"201" "walking_downstairs" "train" "tGravityAccMag" "mean" "mag" 0.137366108163682
-"202" "sitting" "train" "tGravityAccMag" "mean" "mag" -0.955067543234837
-"203" "standing" "train" "tGravityAccMag" "mean" "mag" -0.95678885018195
-"204" "laying" "train" "tGravityAccMag" "mean" "mag" -0.933298701817342
-"205" "walking" "test" "tBodyAccJerkMag" "mean" "mag" -0.237173351544978
-"206" "walking_upstairs" "test" "tBodyAccJerkMag" "mean" "mag" -0.412947118942675
-"207" "walking_downstairs" "test" "tBodyAccJerkMag" "mean" "mag" -0.163692387624738
-"208" "sitting" "test" "tBodyAccJerkMag" "mean" "mag" -0.981076791425662
-"209" "standing" "test" "tBodyAccJerkMag" "mean" "mag" -0.972931858515038
-"210" "laying" "test" "tBodyAccJerkMag" "mean" "mag" -0.979577853575419
-"211" "walking" "train" "tBodyAccJerkMag" "mean" "mag" -0.243182988691175
-"212" "walking_upstairs" "train" "tBodyAccJerkMag" "mean" "mag" -0.38127785952479
-"213" "walking_downstairs" "train" "tBodyAccJerkMag" "mean" "mag" -0.0896983345591278
-"214" "sitting" "train" "tBodyAccJerkMag" "mean" "mag" -0.982966618413686
-"215" "standing" "train" "tBodyAccJerkMag" "mean" "mag" -0.978738869002911
-"216" "laying" "train" "tBodyAccJerkMag" "mean" "mag" -0.979067883653163
-"217" "walking" "test" "tBodyGyroMag" "mean" "mag" -0.318522629716532
-"218" "walking_upstairs" "test" "tBodyGyroMag" "mean" "mag" -0.20735406242569
-"219" "walking_downstairs" "test" "tBodyGyroMag" "mean" "mag" -0.188907287860786
-"220" "sitting" "test" "tBodyGyroMag" "mean" "mag" -0.944897951527495
-"221" "standing" "test" "tBodyGyroMag" "mean" "mag" -0.929095799830827
-"222" "laying" "test" "tBodyGyroMag" "mean" "mag" -0.945435104413408
-"223" "walking" "train" "tBodyGyroMag" "mean" "mag" -0.257203964799315
-"224" "walking_upstairs" "train" "tBodyGyroMag" "mean" "mag" -0.165519411338164
-"225" "walking_downstairs" "train" "tBodyGyroMag" "mean" "mag" -0.104601976301298
-"226" "sitting" "train" "tBodyGyroMag" "mean" "mag" -0.94742138466563
-"227" "standing" "train" "tBodyGyroMag" "mean" "mag" -0.947207964796215
-"228" "laying" "train" "tBodyGyroMag" "mean" "mag" -0.935764661371713
-"229" "walking" "test" "tBodyGyroJerkMag" "mean" "mag" -0.486469326477823
-"230" "walking_upstairs" "test" "tBodyGyroJerkMag" "mean" "mag" -0.623815676008493
-"231" "walking_downstairs" "test" "tBodyGyroJerkMag" "mean" "mag" -0.463187856659524
-"232" "sitting" "test" "tBodyGyroJerkMag" "mean" "mag" -0.986915690997963
-"233" "standing" "test" "tBodyGyroJerkMag" "mean" "mag" -0.973808504699248
-"234" "laying" "test" "tBodyGyroJerkMag" "mean" "mag" -0.981573659888268
-"235" "walking" "train" "tBodyGyroJerkMag" "mean" "mag" -0.450009825369331
-"236" "walking_upstairs" "train" "tBodyGyroJerkMag" "mean" "mag" -0.601125454923672
-"237" "walking_downstairs" "train" "tBodyGyroJerkMag" "mean" "mag" -0.397171015459939
-"238" "sitting" "train" "tBodyGyroJerkMag" "mean" "mag" -0.988248275785381
-"239" "standing" "train" "tBodyGyroJerkMag" "mean" "mag" -0.980589908020378
-"240" "laying" "train" "tBodyGyroJerkMag" "mean" "mag" -0.983166670739161
-"241" "walking" "test" "fBodyAcc" "mean" "X" -0.294540792568548
-"242" "walking_upstairs" "test" "fBodyAcc" "mean" "X" -0.311470643287898
-"243" "walking_downstairs" "test" "fBodyAcc" "mean" "X" -0.0494806268985714
-"244" "sitting" "test" "fBodyAcc" "mean" "X" -0.982716887922607
-"245" "standing" "test" "fBodyAcc" "mean" "X" -0.978289100733083
-"246" "laying" "test" "fBodyAcc" "mean" "X" -0.968327808193668
-"247" "walking" "train" "fBodyAcc" "mean" "X" -0.299246289954772
-"248" "walking_upstairs" "train" "fBodyAcc" "mean" "X" -0.285477495368322
-"249" "walking_downstairs" "train" "fBodyAcc" "mean" "X" 0.0713559405859939
-"250" "sitting" "train" "fBodyAcc" "mean" "X" -0.983235173297045
-"251" "standing" "train" "fBodyAcc" "mean" "X" -0.982912890618632
-"252" "laying" "train" "fBodyAcc" "mean" "X" -0.96623357050462
-"253" "walking" "test" "fBodyAcc" "mean" "Y" -0.0479779302057258
-"254" "walking_upstairs" "test" "fBodyAcc" "mean" "Y" -0.163527702472505
-"255" "walking_downstairs" "test" "fBodyAcc" "mean" "Y" 0.0165795902297619
-"256" "sitting" "test" "fBodyAcc" "mean" "Y" -0.945651716354379
-"257" "standing" "test" "fBodyAcc" "mean" "Y" -0.935336432838346
-"258" "laying" "test" "fBodyAcc" "mean" "Y" -0.962864108901304
-"259" "walking" "train" "fBodyAcc" "mean" "Y" -0.0400579863409135
-"260" "walking_upstairs" "train" "fBodyAcc" "mean" "Y" -0.12240638059096
-"261" "walking_downstairs" "train" "fBodyAcc" "mean" "Y" 0.0737650952372211
-"262" "sitting" "train" "fBodyAcc" "mean" "Y" -0.948783229545879
-"263" "standing" "train" "fBodyAcc" "mean" "Y" -0.946150893748181
-"264" "laying" "train" "fBodyAcc" "mean" "Y" -0.948790913989339
-"265" "walking" "test" "fBodyAcc" "mean" "Z" -0.3951612810625
-"266" "walking_upstairs" "test" "fBodyAcc" "mean" "Z" -0.403859087158599
-"267" "walking_downstairs" "test" "fBodyAcc" "mean" "Z" -0.262449728171024
-"268" "sitting" "test" "fBodyAcc" "mean" "Z" -0.955853613588595
-"269" "standing" "test" "fBodyAcc" "mean" "Z" -0.952981901785714
-"270" "laying" "test" "fBodyAcc" "mean" "Z" -0.969993645065177
-"271" "walking" "train" "fBodyAcc" "mean" "Z" -0.320268879986729
-"272" "walking_upstairs" "train" "fBodyAcc" "mean" "Z" -0.352435071945573
-"273" "walking_downstairs" "train" "fBodyAcc" "mean" "Z" -0.192976080589219
-"274" "sitting" "train" "fBodyAcc" "mean" "Z" -0.957480579844479
-"275" "standing" "train" "fBodyAcc" "mean" "Z" -0.959054674475983
-"276" "laying" "train" "fBodyAcc" "mean" "Z" -0.956210691862118
-"277" "walking" "test" "fBodyAccJerk" "mean" "X" -0.286425196154032
-"278" "walking_upstairs" "test" "fBodyAccJerk" "mean" "X" -0.401066805742038
-"279" "walking_downstairs" "test" "fBodyAccJerk" "mean" "X" -0.130190510361712
-"280" "sitting" "test" "fBodyAccJerk" "mean" "X" -0.983854947474542
-"281" "standing" "test" "fBodyAccJerk" "mean" "X" -0.975829558834586
-"282" "laying" "test" "fBodyAccJerk" "mean" "X" -0.980219864897579
-"283" "walking" "train" "fBodyAccJerk" "mean" "X" -0.321121167768654
-"284" "walking_upstairs" "train" "fBodyAccJerk" "mean" "X" -0.384993618073159
-"285" "walking_downstairs" "train" "fBodyAccJerk" "mean" "X" -0.0476361590971602
-"286" "sitting" "train" "fBodyAccJerk" "mean" "X" -0.985698027869362
-"287" "standing" "train" "fBodyAccJerk" "mean" "X" -0.981626816149927
-"288" "laying" "train" "fBodyAccJerk" "mean" "X" -0.980189178550107
-"289" "walking" "test" "fBodyAccJerk" "mean" "Y" -0.163611924388669
-"290" "walking_upstairs" "test" "fBodyAccJerk" "mean" "Y" -0.38710223800034
-"291" "walking_downstairs" "test" "fBodyAccJerk" "mean" "Y" -0.141035351083571
-"292" "sitting" "test" "fBodyAccJerk" "mean" "Y" -0.971843441731161
-"293" "standing" "test" "fBodyAccJerk" "mean" "Y" -0.958388878139098
-"294" "laying" "test" "fBodyAccJerk" "mean" "Y" -0.972664254394786
-"295" "walking" "train" "fBodyAccJerk" "mean" "Y" -0.173139305678834
-"296" "walking_upstairs" "train" "fBodyAccJerk" "mean" "Y" -0.35481868269617
-"297" "walking_downstairs" "train" "fBodyAccJerk" "mean" "Y" -0.105878566493306
-"298" "sitting" "train" "fBodyAccJerk" "mean" "Y" -0.974807063335925
-"299" "standing" "train" "fBodyAccJerk" "mean" "Y" -0.966931953151383
-"300" "laying" "train" "fBodyAccJerk" "mean" "Y" -0.97089486137882
-"301" "walking" "test" "fBodyAccJerk" "mean" "Z" -0.492933167243952
-"302" "walking_upstairs" "test" "fBodyAccJerk" "mean" "Z" -0.602911767919321
-"303" "walking_downstairs" "test" "fBodyAccJerk" "mean" "Z" -0.376826510175
-"304" "sitting" "test" "fBodyAccJerk" "mean" "Z" -0.978797028004073
-"305" "standing" "test" "fBodyAccJerk" "mean" "Z" -0.972891029661654
-"306" "laying" "test" "fBodyAccJerk" "mean" "Z" -0.977401070260708
-"307" "walking" "train" "fBodyAccJerk" "mean" "Z" -0.434049963153246
-"308" "walking_upstairs" "train" "fBodyAccJerk" "mean" "Z" -0.586735444993476
-"309" "walking_downstairs" "train" "fBodyAccJerk" "mean" "Z" -0.314602839812373
-"310" "sitting" "train" "fBodyAccJerk" "mean" "Z" -0.979854031073095
-"311" "standing" "train" "fBodyAccJerk" "mean" "Z" -0.977422716790393
-"312" "laying" "train" "fBodyAccJerk" "mean" "Z" -0.97631433684435
-"313" "walking" "test" "fBodyGyro" "mean" "X" -0.362109013486694
-"314" "walking_upstairs" "test" "fBodyGyro" "mean" "X" -0.408927905006157
-"315" "walking_downstairs" "test" "fBodyGyro" "mean" "X" -0.255811666394548
-"316" "sitting" "test" "fBodyGyro" "mean" "X" -0.975674870224033
-"317" "standing" "test" "fBodyGyro" "mean" "X" -0.929640505827068
-"318" "laying" "test" "fBodyGyro" "mean" "X" -0.969382140558659
-"319" "walking" "train" "fBodyGyro" "mean" "X" -0.342625352351713
-"320" "walking_upstairs" "train" "fBodyGyro" "mean" "X" -0.387804415129357
-"321" "walking_downstairs" "train" "fBodyGyro" "mean" "X" -0.201783634086511
-"322" "sitting" "train" "fBodyGyro" "mean" "X" -0.977875242783826
-"323" "standing" "train" "fBodyGyro" "mean" "X" -0.949080252780204
-"324" "laying" "train" "fBodyGyro" "mean" "X" -0.960446780433049
-"325" "walking" "test" "fBodyGyro" "mean" "Y" -0.425951988348931
-"326" "walking_upstairs" "test" "fBodyGyro" "mean" "Y" -0.491062764201911
-"327" "walking_downstairs" "test" "fBodyGyro" "mean" "Y" -0.389901050633571
-"328" "sitting" "test" "fBodyGyro" "mean" "Y" -0.973174330101833
-"329" "standing" "test" "fBodyGyro" "mean" "Y" -0.958267475281955
-"330" "laying" "test" "fBodyGyro" "mean" "Y" -0.966120752178771
-"331" "walking" "train" "fBodyGyro" "mean" "Y" -0.373186450008817
-"332" "walking_upstairs" "train" "fBodyGyro" "mean" "Y" -0.445290581715704
-"333" "walking_downstairs" "train" "fBodyGyro" "mean" "Y" -0.28679197429716
-"334" "sitting" "train" "fBodyGyro" "mean" "Y" -0.972183939828927
-"335" "standing" "train" "fBodyGyro" "mean" "Y" -0.968026748042213
-"336" "laying" "train" "fBodyGyro" "mean" "Y" -0.968139785280739
-"337" "walking" "test" "fBodyGyro" "mean" "Z" -0.338214254380242
-"338" "walking_upstairs" "test" "fBodyGyro" "mean" "Z" -0.295292222497452
-"339" "walking_downstairs" "test" "fBodyGyro" "mean" "Z" -0.195446042195476
-"340" "sitting" "test" "fBodyGyro" "mean" "Z" -0.959785362179226
-"341" "standing" "test" "fBodyGyro" "mean" "Z" -0.950343429605263
-"342" "laying" "test" "fBodyGyro" "mean" "Z" -0.968285986927374
-"343" "walking" "train" "fBodyGyro" "mean" "Z" -0.299156019251648
-"344" "walking_upstairs" "train" "fBodyGyro" "mean" "Z" -0.297544907199814
-"345" "walking_downstairs" "train" "fBodyGyro" "mean" "Z" -0.152922530932252
-"346" "sitting" "train" "fBodyGyro" "mean" "Z" -0.961503434618974
-"347" "standing" "train" "fBodyGyro" "mean" "Z" -0.961498605240175
-"348" "laying" "train" "fBodyGyro" "mean" "Z" -0.962619007583511
-"349" "walking" "test" "fBodyAccMag" "mean" "mag" -0.277965865165121
-"350" "walking_upstairs" "test" "fBodyAccMag" "mean" "mag" -0.292081504854565
-"351" "walking_downstairs" "test" "fBodyAccMag" "mean" "mag" 0.0766089178870952
-"352" "sitting" "test" "fBodyAccMag" "mean" "mag" -0.951721972551935
-"353" "standing" "test" "fBodyAccMag" "mean" "mag" -0.949774215169173
-"354" "laying" "test" "fBodyAccMag" "mean" "mag" -0.957424189783985
-"355" "walking" "train" "fBodyAccMag" "mean" "mag" -0.274583992340065
-"356" "walking_upstairs" "train" "fBodyAccMag" "mean" "mag" -0.248835990713271
-"357" "walking_downstairs" "train" "fBodyAccMag" "mean" "mag" 0.171065464344219
-"358" "sitting" "train" "fBodyAccMag" "mean" "mag" -0.952673262657854
-"359" "standing" "train" "fBodyAccMag" "mean" "mag" -0.958227593384279
-"360" "laying" "train" "fBodyAccMag" "mean" "mag" -0.943950932251599
-"361" "walking" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.200266603682944
-"362" "walking_upstairs" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.355087381332696
-"363" "walking_downstairs" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.0487443964492857
-"364" "sitting" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.977173862342159
-"365" "standing" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.965635777255639
-"366" "laying" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.974611609068901
-"367" "walking" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.220474636401958
-"368" "walking_upstairs" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.353468006783504
-"369" "walking_downstairs" "train" "fBodyBodyAccJerkMag" "mean" "mag" 0.027554426056359
-"370" "sitting" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.979261088468118
-"371" "standing" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.973202412219796
-"372" "laying" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.9741812297086
-"373" "walking" "test" "fBodyBodyGyroMag" "mean" "mag" -0.448021014490363
-"374" "walking_upstairs" "test" "fBodyBodyGyroMag" "mean" "mag" -0.495846446322718
-"375" "walking_downstairs" "test" "fBodyBodyGyroMag" "mean" "mag" -0.344731299676667
-"376" "sitting" "test" "fBodyBodyGyroMag" "mean" "mag" -0.964803846456212
-"377" "standing" "test" "fBodyBodyGyroMag" "mean" "mag" -0.935236448120301
-"378" "laying" "test" "fBodyBodyGyroMag" "mean" "mag" -0.957813942756052
-"379" "walking" "train" "fBodyBodyGyroMag" "mean" "mag" -0.393456402177055
-"380" "walking_upstairs" "train" "fBodyBodyGyroMag" "mean" "mag" -0.429560837457409
-"381" "walking_downstairs" "train" "fBodyBodyGyroMag" "mean" "mag" -0.266010319105811
-"382" "sitting" "train" "fBodyBodyGyroMag" "mean" "mag" -0.964102259572317
-"383" "standing" "train" "fBodyBodyGyroMag" "mean" "mag" -0.952814999133916
-"384" "laying" "train" "fBodyBodyGyroMag" "mean" "mag" -0.953724931549396
-"385" "walking" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.53629723682746
-"386" "walking_upstairs" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.666239280021231
-"387" "walking_downstairs" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.472266338783095
-"388" "sitting" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.984435176130346
-"389" "standing" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.968115551522556
-"390" "laying" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.976359034581006
-"391" "walking" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.507109768565555
-"392" "walking_upstairs" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.655382609368593
-"393" "walking_downstairs" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.423414186458479
-"394" "sitting" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.985679431041991
-"395" "standing" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.97750742639738
-"396" "laying" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.978582414975124
-"397" "walking" "test" "tBodyAcc" "std" "X" -0.319595856634677
-"398" "walking_upstairs" "test" "tBodyAcc" "std" "X" -0.276529588909979
-"399" "walking_downstairs" "test" "tBodyAcc" "std" "X" 0.00902022030214286
-"400" "sitting" "test" "tBodyAcc" "std" "X" -0.983437472749491
-"401" "standing" "test" "tBodyAcc" "std" "X" -0.982080518496241
-"402" "laying" "test" "tBodyAcc" "std" "X" -0.964750344692737
-"403" "walking" "train" "tBodyAcc" "std" "X" -0.312641276860938
-"404" "walking_upstairs" "train" "tBodyAcc" "std" "X" -0.221072445907903
-"405" "walking_downstairs" "train" "tBodyAcc" "std" "X" 0.139846824303926
-"406" "sitting" "train" "tBodyAcc" "std" "X" -0.983449562153966
-"407" "standing" "train" "tBodyAcc" "std" "X" -0.985346233195051
-"408" "laying" "train" "tBodyAcc" "std" "X" -0.959475238302061
-"409" "walking" "test" "tBodyAcc" "std" "Y" -0.031767626453629
-"410" "walking_upstairs" "test" "tBodyAcc" "std" "Y" -0.0517638240820382
-"411" "walking_downstairs" "test" "tBodyAcc" "std" "Y" 0.0134523978078571
-"412" "sitting" "test" "tBodyAcc" "std" "Y" -0.9314033418778
-"413" "standing" "test" "tBodyAcc" "std" "Y" -0.923457376973684
-"414" "laying" "test" "tBodyAcc" "std" "Y" -0.958961259925512
-"415" "walking" "train" "tBodyAcc" "std" "Y" -0.0202716892534421
-"416" "walking_upstairs" "train" "tBodyAcc" "std" "Y" -0.000348031582171482
-"417" "walking_downstairs" "train" "tBodyAcc" "std" "Y" 0.079183931731927
-"418" "sitting" "train" "tBodyAcc" "std" "Y" -0.936208179940381
-"419" "standing" "train" "tBodyAcc" "std" "Y" -0.936013307409025
-"420" "laying" "train" "tBodyAcc" "std" "Y" -0.937608935448472
-"421" "walking" "test" "tBodyAcc" "std" "Z" -0.342244602873911
-"422" "walking_upstairs" "test" "tBodyAcc" "std" "Z" -0.255380107800849
-"423" "walking_downstairs" "test" "tBodyAcc" "std" "Z" -0.243477099060119
-"424" "sitting" "test" "tBodyAcc" "std" "Z" -0.938215184142566
-"425" "standing" "test" "tBodyAcc" "std" "Z" -0.933595536629699
-"426" "laying" "test" "tBodyAcc" "std" "Z" -0.964927132290503
-"427" "walking" "train" "tBodyAcc" "std" "Z" -0.246279194916452
-"428" "walking_upstairs" "train" "tBodyAcc" "std" "Z" -0.140363752818472
-"429" "walking_downstairs" "train" "tBodyAcc" "std" "Z" -0.168367906550132
-"430" "sitting" "train" "tBodyAcc" "std" "Z" -0.939274193888803
-"431" "standing" "train" "tBodyAcc" "std" "Z" -0.942359763042212
-"432" "laying" "train" "tBodyAcc" "std" "Z" -0.941635287283866
-"433" "walking" "test" "tGravityAcc" "std" "X" -0.977866512903226
-"434" "walking_upstairs" "test" "tGravityAcc" "std" "X" -0.95239939104034
-"435" "walking_downstairs" "test" "tGravityAcc" "std" "X" -0.951956040880952
-"436" "sitting" "test" "tGravityAcc" "std" "X" -0.981298906069246
-"437" "standing" "test" "tGravityAcc" "std" "X" -0.987356506654135
-"438" "laying" "test" "tGravityAcc" "std" "X" -0.947827229962756
-"439" "walking" "train" "tGravityAcc" "std" "X" -0.977509136933116
-"440" "walking_upstairs" "train" "tGravityAcc" "std" "X" -0.946344178769804
-"441" "walking_downstairs" "train" "tGravityAcc" "std" "X" -0.948808651206897
-"442" "sitting" "train" "tGravityAcc" "std" "X" -0.979064977083981
-"443" "standing" "train" "tGravityAcc" "std" "X" -0.988270207540029
-"444" "laying" "train" "tGravityAcc" "std" "X" -0.941599380704335
-"445" "walking" "test" "tGravityAcc" "std" "Y" -0.967576257318548
-"446" "walking_upstairs" "test" "tGravityAcc" "std" "Y" -0.925912647367304
-"447" "walking_downstairs" "test" "tGravityAcc" "std" "Y" -0.933501819642857
-"448" "sitting" "test" "tGravityAcc" "std" "Y" -0.957728709456212
-"449" "standing" "test" "tGravityAcc" "std" "Y" -0.96572940268797
-"450" "laying" "test" "tGravityAcc" "std" "Y" -0.979253784934823
-"451" "walking" "train" "tGravityAcc" "std" "Y" -0.966631852120718
-"452" "walking_upstairs" "train" "tGravityAcc" "std" "Y" -0.925389766076421
-"453" "walking_downstairs" "train" "tGravityAcc" "std" "Y" -0.934591624918864
-"454" "sitting" "train" "tGravityAcc" "std" "Y" -0.957651371119751
-"455" "standing" "train" "tGravityAcc" "std" "Y" -0.970754316870451
-"456" "laying" "train" "tGravityAcc" "std" "Y" -0.957061403069012
-"457" "walking" "test" "tGravityAcc" "std" "Z" -0.959918772116935
-"458" "walking_upstairs" "test" "tGravityAcc" "std" "Z" -0.906976117919321
-"459" "walking_downstairs" "test" "tGravityAcc" "std" "Z" -0.919091320238095
-"460" "sitting" "test" "tGravityAcc" "std" "Z" -0.947828792947047
-"461" "standing" "test" "tGravityAcc" "std" "Z" -0.947266767753759
-"462" "laying" "test" "tGravityAcc" "std" "Z" -0.973531121975791
-"463" "walking" "train" "tGravityAcc" "std" "Z" -0.952444776696574
-"464" "walking_upstairs" "train" "tGravityAcc" "std" "Z" -0.899679890894688
-"465" "walking_downstairs" "train" "tGravityAcc" "std" "Z" -0.909636090415821
-"466" "sitting" "train" "tGravityAcc" "std" "Z" -0.947177473594868
-"467" "standing" "train" "tGravityAcc" "std" "Z" -0.955334333173217
-"468" "laying" "train" "tGravityAcc" "std" "Z" -0.943600986262971
-"469" "walking" "test" "tBodyAccJerk" "std" "X" -0.230634921260282
-"470" "walking_upstairs" "test" "tBodyAccJerk" "std" "X" -0.372285856288747
-"471" "walking_downstairs" "test" "tBodyAccJerk" "std" "X" -0.0941815286700238
-"472" "sitting" "test" "tBodyAccJerk" "std" "X" -0.983563065824847
-"473" "standing" "test" "tBodyAccJerk" "std" "X" -0.975695739736842
-"474" "laying" "test" "tBodyAccJerk" "std" "X" -0.980256750707635
-"475" "walking" "train" "tBodyAccJerk" "std" "X" -0.282116881167088
-"476" "walking_upstairs" "train" "tBodyAccJerk" "std" "X" -0.355849488668406
-"477" "walking_downstairs" "train" "tBodyAccJerk" "std" "X" -0.0081975248379716
-"478" "sitting" "train" "tBodyAccJerk" "std" "X" -0.985544794618974
-"479" "standing" "train" "tBodyAccJerk" "std" "X" -0.981622950225619
-"480" "laying" "train" "tBodyAccJerk" "std" "X" -0.980429538464819
-"481" "walking" "test" "tBodyAccJerk" "std" "Y" -0.0986195505663911
-"482" "walking_upstairs" "test" "tBodyAccJerk" "std" "Y" -0.36356830989087
-"483" "walking_downstairs" "test" "tBodyAccJerk" "std" "Y" -0.101380895052357
-"484" "sitting" "test" "tBodyAccJerk" "std" "Y" -0.971875152668024
-"485" "standing" "test" "tBodyAccJerk" "std" "Y" -0.958496662406015
-"486" "laying" "test" "tBodyAccJerk" "std" "Y" -0.972278279683426
-"487" "walking" "train" "tBodyAccJerk" "std" "Y" -0.104970427937531
-"488" "walking_upstairs" "train" "tBodyAccJerk" "std" "Y" -0.328541506919935
-"489" "walking_downstairs" "train" "tBodyAccJerk" "std" "Y" -0.0618724537659239
-"490" "sitting" "train" "tBodyAccJerk" "std" "Y" -0.974649826034215
-"491" "standing" "train" "tBodyAccJerk" "std" "Y" -0.96660630371179
-"492" "laying" "train" "tBodyAccJerk" "std" "Y" -0.970716016723525
-"493" "walking" "test" "tBodyAccJerk" "std" "Z" -0.521739457217742
-"494" "walking_upstairs" "test" "tBodyAccJerk" "std" "Z" -0.638159602229299
-"495" "walking_downstairs" "test" "tBodyAccJerk" "std" "Z" -0.424200745914286
-"496" "sitting" "test" "tBodyAccJerk" "std" "Z" -0.981694772077393
-"497" "standing" "test" "tBodyAccJerk" "std" "Z" -0.976671984022556
-"498" "laying" "test" "tBodyAccJerk" "std" "Z" -0.979848204692737
-"499" "walking" "train" "tBodyAccJerk" "std" "Z" -0.461915637480408
-"500" "walking_upstairs" "train" "tBodyAccJerk" "std" "Z" -0.622193012661696
-"501" "walking_downstairs" "train" "tBodyAccJerk" "std" "Z" -0.373529594680882
-"502" "sitting" "train" "tBodyAccJerk" "std" "Z" -0.982526224152411
-"503" "standing" "train" "tBodyAccJerk" "std" "Z" -0.980575465705968
-"504" "laying" "train" "tBodyAccJerk" "std" "Z" -0.979334766545842
-"505" "walking" "test" "tBodyGyro" "std" "X" -0.49123325066129
-"506" "walking_upstairs" "test" "tBodyGyro" "std" "X" -0.4816437891862
-"507" "walking_downstairs" "test" "tBodyGyro" "std" "X" -0.373429876892857
-"508" "sitting" "test" "tBodyGyro" "std" "X" -0.980391992382892
-"509" "standing" "test" "tBodyGyro" "std" "X" -0.931444571390977
-"510" "laying" "test" "tBodyGyro" "std" "X" -0.974575194841713
-"511" "walking" "train" "tBodyGyro" "std" "X" -0.461290098708157
-"512" "walking_upstairs" "train" "tBodyGyro" "std" "X" -0.461445663370363
-"513" "walking_downstairs" "train" "tBodyGyro" "std" "X" -0.316944038169878
-"514" "sitting" "train" "tBodyGyro" "std" "X" -0.981262834082426
-"515" "standing" "train" "tBodyGyro" "std" "X" -0.950981475866084
-"516" "laying" "train" "tBodyGyro" "std" "X" -0.965341869218906
-"517" "walking" "test" "tBodyGyro" "std" "Y" -0.40313354348629
-"518" "walking_upstairs" "test" "tBodyGyro" "std" "Y" -0.395856447426093
-"519" "walking_downstairs" "test" "tBodyGyro" "std" "Y" -0.418157975061905
-"520" "sitting" "test" "tBodyGyro" "std" "Y" -0.967761899022403
-"521" "standing" "test" "tBodyGyro" "std" "Y" -0.953936289642857
-"522" "laying" "test" "tBodyGyro" "std" "Y" -0.962547564208566
-"523" "walking" "train" "tBodyGyro" "std" "Y" -0.325584920802455
-"524" "walking_upstairs" "train" "tBodyGyro" "std" "Y" -0.321570850665424
-"525" "walking_downstairs" "train" "tBodyGyro" "std" "Y" -0.306181913257404
-"526" "sitting" "train" "tBodyGyro" "std" "Y" -0.966305793009331
-"527" "standing" "train" "tBodyGyro" "std" "Y" -0.96414183628821
-"528" "laying" "train" "tBodyGyro" "std" "Y" -0.963438605707178
-"529" "walking" "test" "tBodyGyro" "std" "Z" -0.382048326903226
-"530" "walking_upstairs" "test" "tBodyGyro" "std" "Z" -0.234132446747091
-"531" "walking_downstairs" "test" "tBodyGyro" "std" "Z" -0.299487958953952
-"532" "sitting" "test" "tBodyGyro" "std" "Z" -0.955691205600815
-"533" "standing" "test" "tBodyGyro" "std" "Z" -0.949165841541353
-"534" "laying" "test" "tBodyGyro" "std" "Z" -0.968943417318436
-"535" "walking" "train" "tBodyGyro" "std" "Z" -0.32080957637553
-"536" "walking_upstairs" "train" "tBodyGyro" "std" "Z" -0.238455522894334
-"537" "walking_downstairs" "train" "tBodyGyro" "std" "Z" -0.26144603615071
-"538" "sitting" "train" "tBodyGyro" "std" "Z" -0.958891866041991
-"539" "standing" "train" "tBodyGyro" "std" "Z" -0.960106905407569
-"540" "laying" "train" "tBodyGyro" "std" "Z" -0.961435198422175
-"541" "walking" "test" "tBodyGyroJerk" "std" "X" -0.413270422316532
-"542" "walking_upstairs" "test" "tBodyGyroJerk" "std" "X" -0.576962412908705
-"543" "walking_downstairs" "test" "tBodyGyroJerk" "std" "X" -0.403089544085476
-"544" "sitting" "test" "tBodyGyroJerk" "std" "X" -0.983401234236253
-"545" "standing" "test" "tBodyGyroJerk" "std" "X" -0.960413190958647
-"546" "laying" "test" "tBodyGyroJerk" "std" "X" -0.977778340986965
-"547" "walking" "train" "tBodyGyroJerk" "std" "X" -0.361232566109217
-"548" "walking_upstairs" "train" "tBodyGyroJerk" "std" "X" -0.542672583806617
-"549" "walking_downstairs" "train" "tBodyGyroJerk" "std" "X" -0.374000213890974
-"550" "sitting" "train" "tBodyGyroJerk" "std" "X" -0.98658476348367
-"551" "standing" "train" "tBodyGyroJerk" "std" "X" -0.969492009825327
-"552" "laying" "train" "tBodyGyroJerk" "std" "X" -0.975493723411514
-"553" "walking" "test" "tBodyGyroJerk" "std" "Y" -0.536563346574597
-"554" "walking_upstairs" "test" "tBodyGyroJerk" "std" "Y" -0.681691906666667
-"555" "walking_downstairs" "test" "tBodyGyroJerk" "std" "Y" -0.515669184902381
-"556" "sitting" "test" "tBodyGyroJerk" "std" "Y" -0.986105054114053
-"557" "standing" "test" "tBodyGyroJerk" "std" "Y" -0.975663792180451
-"558" "laying" "test" "tBodyGyroJerk" "std" "Y" -0.977947653873371
-"559" "walking" "train" "tBodyGyroJerk" "std" "Y" -0.502931986096003
-"560" "walking_upstairs" "train" "tBodyGyroJerk" "std" "Y" -0.661038928760485
-"561" "walking_downstairs" "train" "tBodyGyroJerk" "std" "Y" -0.444762616614097
-"562" "sitting" "train" "tBodyGyroJerk" "std" "Y" -0.986654023623639
-"563" "standing" "train" "tBodyGyroJerk" "std" "Y" -0.98204418555313
-"564" "laying" "train" "tBodyGyroJerk" "std" "Y" -0.981437634278607
-"565" "walking" "test" "tBodyGyroJerk" "std" "Z" -0.463647341954839
-"566" "walking_upstairs" "test" "tBodyGyroJerk" "std" "Z" -0.554141881365605
-"567" "walking_downstairs" "test" "tBodyGyroJerk" "std" "Z" -0.344353104702143
-"568" "sitting" "test" "tBodyGyroJerk" "std" "Z" -0.982864892851324
-"569" "standing" "test" "tBodyGyroJerk" "std" "Z" -0.972075062631579
-"570" "laying" "test" "tBodyGyroJerk" "std" "Z" -0.985304182718808
-"571" "walking" "train" "tBodyGyroJerk" "std" "Z" -0.440865118262072
-"572" "walking_upstairs" "train" "tBodyGyroJerk" "std" "Z" -0.56399488868932
-"573" "walking_downstairs" "train" "tBodyGyroJerk" "std" "Z" -0.318832476117718
-"574" "sitting" "train" "tBodyGyroJerk" "std" "Z" -0.984164647052877
-"575" "standing" "train" "tBodyGyroJerk" "std" "Z" -0.978999994272198
-"576" "laying" "train" "tBodyGyroJerk" "std" "Z" -0.984583429004975
-"577" "walking" "test" "tBodyAccMag" "std" "mag" -0.355577474335887
-"578" "walking_upstairs" "test" "tBodyAccMag" "std" "mag" -0.282505793501648
-"579" "walking_downstairs" "test" "tBodyAccMag" "std" "mag" 0.0504083176412857
-"580" "sitting" "test" "tBodyAccMag" "std" "mag" -0.9392153100611
-"581" "standing" "test" "tBodyAccMag" "std" "mag" -0.940038000263158
-"582" "laying" "test" "tBodyAccMag" "std" "mag" -0.949805818519553
-"583" "walking" "train" "tBodyAccMag" "std" "mag" -0.33054317771252
-"584" "walking_upstairs" "train" "tBodyAccMag" "std" "mag" -0.235551736910382
-"585" "walking_downstairs" "train" "tBodyAccMag" "std" "mag" 0.144636835872059
-"586" "sitting" "train" "tBodyAccMag" "std" "mag" -0.939365758525816
-"587" "standing" "train" "tBodyAccMag" "std" "mag" -0.949050271871907
-"588" "laying" "train" "tBodyAccMag" "std" "mag" -0.925425270312722
-"589" "walking" "test" "tGravityAccMag" "std" "mag" -0.355577474335887
-"590" "walking_upstairs" "test" "tGravityAccMag" "std" "mag" -0.282505793501648
-"591" "walking_downstairs" "test" "tGravityAccMag" "std" "mag" 0.0504083176412857
-"592" "sitting" "test" "tGravityAccMag" "std" "mag" -0.9392153100611
-"593" "standing" "test" "tGravityAccMag" "std" "mag" -0.940038000263158
-"594" "laying" "test" "tGravityAccMag" "std" "mag" -0.949805818519553
-"595" "walking" "train" "tGravityAccMag" "std" "mag" -0.33054317771252
-"596" "walking_upstairs" "train" "tGravityAccMag" "std" "mag" -0.235551736910382
-"597" "walking_downstairs" "train" "tGravityAccMag" "std" "mag" 0.144636835872059
-"598" "sitting" "train" "tGravityAccMag" "std" "mag" -0.939365758525816
-"599" "standing" "train" "tGravityAccMag" "std" "mag" -0.949050271871907
-"600" "laying" "train" "tGravityAccMag" "std" "mag" -0.925425270312722
-"601" "walking" "test" "tBodyAccJerkMag" "std" "mag" -0.198067072712843
-"602" "walking_upstairs" "test" "tBodyAccJerkMag" "std" "mag" -0.380950968793418
-"603" "walking_downstairs" "test" "tBodyAccJerkMag" "std" "mag" -0.0450688652907857
-"604" "sitting" "test" "tBodyAccJerkMag" "std" "mag" -0.977510406741344
-"605" "standing" "test" "tBodyAccJerkMag" "std" "mag" -0.966123790845865
-"606" "laying" "test" "tBodyAccJerkMag" "std" "mag" -0.974610375400372
-"607" "walking" "train" "tBodyAccJerkMag" "std" "mag" -0.22122673901031
-"608" "walking_upstairs" "train" "tBodyAccJerkMag" "std" "mag" -0.38735343572274
-"609" "walking_downstairs" "train" "tBodyAccJerkMag" "std" "mag" 0.00319743123002028
-"610" "sitting" "train" "tBodyAccJerkMag" "std" "mag" -0.9794403344479
-"611" "standing" "train" "tBodyAccJerkMag" "std" "mag" -0.973516388609898
-"612" "laying" "train" "tBodyAccJerkMag" "std" "mag" -0.974099433837953
-"613" "walking" "test" "tBodyGyroMag" "std" "mag" -0.436169354776008
-"614" "walking_upstairs" "test" "tBodyGyroMag" "std" "mag" -0.41269395604845
-"615" "walking_downstairs" "test" "tBodyGyroMag" "std" "mag" -0.308151790967905
-"616" "sitting" "test" "tBodyGyroMag" "std" "mag" -0.952093296334012
-"617" "standing" "test" "tBodyGyroMag" "std" "mag" -0.91301937112782
-"618" "laying" "test" "tBodyGyroMag" "std" "mag" -0.94755611895717
-"619" "walking" "train" "tBodyGyroMag" "std" "mag" -0.36096832426354
-"620" "walking_upstairs" "train" "tBodyGyroMag" "std" "mag" -0.303978179337558
-"621" "walking_downstairs" "train" "tBodyGyroMag" "std" "mag" -0.227265452316329
-"622" "sitting" "train" "tBodyGyroMag" "std" "mag" -0.950857575620529
-"623" "standing" "train" "tBodyGyroMag" "std" "mag" -0.935924401841339
-"624" "laying" "train" "tBodyGyroMag" "std" "mag" -0.937939730744847
-"625" "walking" "test" "tBodyGyroJerkMag" "std" "mag" -0.525913731689919
-"626" "walking_upstairs" "test" "tBodyGyroJerkMag" "std" "mag" -0.67288561866242
-"627" "walking_downstairs" "test" "tBodyGyroJerkMag" "std" "mag" -0.464553224377857
-"628" "sitting" "test" "tBodyGyroJerkMag" "std" "mag" -0.983877373299389
-"629" "standing" "test" "tBodyGyroJerkMag" "std" "mag" -0.966851556766917
-"630" "laying" "test" "tBodyGyroJerkMag" "std" "mag" -0.975261643500931
-"631" "walking" "train" "tBodyGyroJerkMag" "std" "mag" -0.487888281890326
-"632" "walking_upstairs" "train" "tBodyGyroJerkMag" "std" "mag" -0.664181538692451
-"633" "walking_downstairs" "train" "tBodyGyroJerkMag" "std" "mag" -0.430866415856653
-"634" "sitting" "train" "tBodyGyroJerkMag" "std" "mag" -0.984886442970451
-"635" "standing" "train" "tBodyGyroJerkMag" "std" "mag" -0.976113861921397
-"636" "laying" "train" "tBodyGyroJerkMag" "std" "mag" -0.977324912189055
-"637" "walking" "test" "fBodyAcc" "std" "X" -0.331205812727218
-"638" "walking_upstairs" "test" "fBodyAcc" "std" "X" -0.265071335268684
-"639" "walking_downstairs" "test" "fBodyAcc" "std" "X" 0.0282587765922857
-"640" "sitting" "test" "fBodyAcc" "std" "X" -0.983935781955193
-"641" "standing" "test" "fBodyAcc" "std" "X" -0.984014116334586
-"642" "laying" "test" "fBodyAcc" "std" "X" -0.963547345810056
-"643" "walking" "train" "fBodyAcc" "std" "X" -0.319449560903263
-"644" "walking_upstairs" "train" "fBodyAcc" "std" "X" -0.198615524473914
-"645" "walking_downstairs" "train" "fBodyAcc" "std" "X" 0.161841907222363
-"646" "sitting" "train" "fBodyAcc" "std" "X" -0.983675290902022
-"647" "standing" "train" "fBodyAcc" "std" "X" -0.986574413391557
-"648" "laying" "train" "fBodyAcc" "std" "X" -0.957307907502701
-"649" "walking" "test" "fBodyAcc" "std" "Y" -0.0866828255034476
-"650" "walking_upstairs" "test" "fBodyAcc" "std" "Y" -0.058797927424034
-"651" "walking_downstairs" "test" "fBodyAcc" "std" "Y" -0.0548990607438095
-"652" "sitting" "test" "fBodyAcc" "std" "Y" -0.928826696148676
-"653" "standing" "test" "fBodyAcc" "std" "Y" -0.922115261618421
-"654" "laying" "test" "fBodyAcc" "std" "Y" -0.959297968620112
-"655" "walking" "train" "fBodyAcc" "std" "Y" -0.0733724623492251
-"656" "walking_upstairs" "train" "fBodyAcc" "std" "Y" -0.00557541172054054
-"657" "walking_downstairs" "train" "fBodyAcc" "std" "Y" 0.0116440806198682
-"658" "sitting" "train" "fBodyAcc" "std" "Y" -0.933948759256143
-"659" "standing" "train" "fBodyAcc" "std" "Y" -0.934624538980349
-"660" "laying" "train" "fBodyAcc" "std" "Y" -0.936034910177683
-"661" "walking" "test" "fBodyAcc" "std" "Z" -0.366538572371935
-"662" "walking_upstairs" "test" "fBodyAcc" "std" "Z" -0.239259921773609
-"663" "walking_downstairs" "test" "fBodyAcc" "std" "Z" -0.296229623796381
-"664" "sitting" "test" "fBodyAcc" "std" "Z" -0.933819490450509
-"665" "standing" "test" "fBodyAcc" "std" "Z" -0.928665948665414
-"666" "laying" "test" "fBodyAcc" "std" "Z" -0.964355421625698
-"667" "walking" "train" "fBodyAcc" "std" "Z" -0.267572362684095
-"668" "walking_upstairs" "train" "fBodyAcc" "std" "Z" -0.105928929517437
-"669" "walking_downstairs" "train" "fBodyAcc" "std" "Z" -0.224422769657505
-"670" "sitting" "train" "fBodyAcc" "std" "Z" -0.934534156082426
-"671" "standing" "train" "fBodyAcc" "std" "Z" -0.938062292598253
-"672" "laying" "train" "fBodyAcc" "std" "Z" -0.938502036889055
-"673" "walking" "test" "fBodyAccJerk" "std" "X" -0.242420560580565
-"674" "walking_upstairs" "test" "fBodyAccJerk" "std" "X" -0.400132176654225
-"675" "walking_downstairs" "test" "fBodyAccJerk" "std" "X" -0.139219708816221
-"676" "sitting" "test" "fBodyAccJerk" "std" "X" -0.984772635397149
-"677" "standing" "test" "fBodyAccJerk" "std" "X" -0.977860039473684
-"678" "laying" "test" "fBodyAccJerk" "std" "X" -0.982173560986965
-"679" "walking" "train" "fBodyAccJerk" "std" "X" -0.306296265538255
-"680" "walking_upstairs" "train" "fBodyAccJerk" "std" "X" -0.384103045858528
-"681" "walking_downstairs" "train" "fBodyAccJerk" "std" "X" -0.0578981617975233
-"682" "sitting" "train" "fBodyAccJerk" "std" "X" -0.986724182511664
-"683" "standing" "train" "fBodyAccJerk" "std" "X" -0.983361688056769
-"684" "laying" "train" "fBodyAccJerk" "std" "X" -0.98256876949538
-"685" "walking" "test" "fBodyAccJerk" "std" "Y" -0.0888750052252419
-"686" "walking_upstairs" "test" "fBodyAccJerk" "std" "Y" -0.382397128219958
-"687" "walking_downstairs" "test" "fBodyAccJerk" "std" "Y" -0.120492087281667
-"688" "sitting" "test" "fBodyAccJerk" "std" "Y" -0.974082505132383
-"689" "standing" "test" "fBodyAccJerk" "std" "Y" -0.961841590695489
-"690" "laying" "test" "fBodyAccJerk" "std" "Y" -0.973895600260708
-"691" "walking" "train" "fBodyAccJerk" "std" "Y" -0.0916769810447162
-"692" "walking_upstairs" "train" "fBodyAccJerk" "std" "Y" -0.346762525466654
-"693" "walking_downstairs" "train" "fBodyAccJerk" "std" "Y" -0.0790313050466197
-"694" "sitting" "train" "fBodyAccJerk" "std" "Y" -0.976387838265941
-"695" "standing" "train" "fBodyAccJerk" "std" "Y" -0.968763727401747
-"696" "laying" "train" "fBodyAccJerk" "std" "Y" -0.972728982835821
-"697" "walking" "test" "fBodyAccJerk" "std" "Z" -0.549313653548387
-"698" "walking_upstairs" "test" "fBodyAccJerk" "std" "Z" -0.672740221974522
-"699" "walking_downstairs" "test" "fBodyAccJerk" "std" "Z" -0.470596619978571
-"700" "sitting" "test" "fBodyAccJerk" "std" "Z" -0.98325268293279
-"701" "standing" "test" "fBodyAccJerk" "std" "Z" -0.979166264097744
-"702" "laying" "test" "fBodyAccJerk" "std" "Z" -0.980879842532588
-"703" "walking" "train" "fBodyAccJerk" "std" "Z" -0.488938910530661
-"704" "walking_upstairs" "train" "fBodyAccJerk" "std" "Z" -0.656696754193849
-"705" "walking_downstairs" "train" "fBodyAccJerk" "std" "Z" -0.432035778998519
-"706" "sitting" "train" "fBodyAccJerk" "std" "Z" -0.983830467869362
-"707" "standing" "train" "fBodyAccJerk" "std" "Z" -0.982416433216885
-"708" "laying" "train" "fBodyAccJerk" "std" "Z" -0.981007056687989
-"709" "walking" "test" "fBodyGyro" "std" "X" -0.533422340395161
-"710" "walking_upstairs" "test" "fBodyGyro" "std" "X" -0.508328984061571
-"711" "walking_downstairs" "test" "fBodyGyro" "std" "X" -0.414798335411905
-"712" "sitting" "test" "fBodyGyro" "std" "X" -0.981948078452138
-"713" "standing" "test" "fBodyGyro" "std" "X" -0.933147031785714
-"714" "laying" "test" "fBodyGyro" "std" "X" -0.976403305605214
-"715" "walking" "train" "fBodyGyro" "std" "X" -0.501130832201272
-"716" "walking_upstairs" "train" "fBodyGyro" "std" "X" -0.489514621167474
-"717" "walking_downstairs" "train" "fBodyGyro" "std" "X" -0.358229126788915
-"718" "sitting" "train" "fBodyGyro" "std" "X" -0.98248034318818
-"719" "standing" "train" "fBodyGyro" "std" "X" -0.952324284970888
-"720" "laying" "train" "fBodyGyro" "std" "X" -0.967206952885572
-"721" "walking" "test" "fBodyGyro" "std" "Y" -0.396217017188105
-"722" "walking_upstairs" "test" "fBodyGyro" "std" "Y" -0.352975477855626
-"723" "walking_downstairs" "test" "fBodyGyro" "std" "Y" -0.442949501905
-"724" "sitting" "test" "fBodyGyro" "std" "Y" -0.965280836802444
-"725" "standing" "test" "fBodyGyro" "std" "Y" -0.952000106052632
-"726" "laying" "test" "fBodyGyro" "std" "Y" -0.961109421824953
-"727" "walking" "train" "fBodyGyro" "std" "Y" -0.305965827883026
-"728" "walking_upstairs" "train" "fBodyGyro" "std" "Y" -0.266935034348369
-"729" "walking_downstairs" "train" "fBodyGyro" "std" "Y" -0.32730982482787
-"730" "sitting" "train" "fBodyGyro" "std" "Y" -0.963557481329705
-"731" "standing" "train" "fBodyGyro" "std" "Y" -0.962401947845706
-"732" "laying" "train" "fBodyGyro" "std" "Y" -0.961463062750533
-"733" "walking" "test" "fBodyGyro" "std" "Z" -0.455425174120968
-"734" "walking_upstairs" "test" "fBodyGyro" "std" "Z" -0.288298632743737
-"735" "walking_downstairs" "test" "fBodyGyro" "std" "Z" -0.404459674067143
-"736" "sitting" "test" "fBodyGyro" "std" "Z" -0.958576115132383
-"737" "standing" "test" "fBodyGyro" "std" "Z" -0.953564673195489
-"738" "laying" "test" "fBodyGyro" "std" "Z" -0.972050234487896
-"739" "walking" "train" "fBodyGyro" "std" "Z" -0.392421798877651
-"740" "walking_upstairs" "train" "fBodyGyro" "std" "Z" -0.293684227338677
-"741" "walking_downstairs" "train" "fBodyGyro" "std" "Z" -0.370165715908925
-"742" "sitting" "train" "fBodyGyro" "std" "Z" -0.961967228561431
-"743" "standing" "train" "fBodyGyro" "std" "Z" -0.96344778356623
-"744" "laying" "train" "fBodyGyro" "std" "Z" -0.964692895927505
-"745" "walking" "test" "fBodyAccMag" "std" "mag" -0.505450664375
-"746" "walking_upstairs" "test" "fBodyAccMag" "std" "mag" -0.39041721744586
-"747" "walking_downstairs" "test" "fBodyAccMag" "std" "mag" -0.130476071203333
-"748" "sitting" "test" "fBodyAccMag" "std" "mag" -0.94208825496945
-"749" "standing" "test" "fBodyAccMag" "std" "mag" -0.943924405018797
-"750" "laying" "test" "fBodyAccMag" "std" "mag" -0.953138504479888
-"751" "walking" "train" "fBodyAccMag" "std" "mag" -0.469706683062806
-"752" "walking_upstairs" "train" "fBodyAccMag" "std" "mag" -0.349171321564772
-"753" "walking_downstairs" "train" "fBodyAccMag" "std" "mag" -0.0519754917174949
-"754" "sitting" "train" "fBodyAccMag" "std" "mag" -0.941966512135303
-"755" "standing" "train" "fBodyAccMag" "std" "mag" -0.951799775699709
-"756" "laying" "train" "fBodyAccMag" "std" "mag" -0.927962071920256
-"757" "walking" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.201670204510645
-"758" "walking_upstairs" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.421213315287049
-"759" "walking_downstairs" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.0504212059297857
-"760" "sitting" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.976917733543788
-"761" "standing" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.965905446015038
-"762" "laying" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.973586610782123
-"763" "walking" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.229687911080799
-"764" "walking_upstairs" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.439910272754185
-"765" "walking_downstairs" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.0387999123583974
-"766" "sitting" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.978627076430793
-"767" "standing" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.972900383770015
-"768" "laying" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.97302950880597
-"769" "walking" "test" "fBodyBodyGyroMag" "std" "mag" -0.52913161384879
-"770" "walking_upstairs" "test" "fBodyBodyGyroMag" "std" "mag" -0.460677679282378
-"771" "walking_downstairs" "test" "fBodyBodyGyroMag" "std" "mag" -0.407172196497619
-"772" "sitting" "test" "fBodyBodyGyroMag" "std" "mag" -0.95254545598778
-"773" "standing" "test" "fBodyBodyGyroMag" "std" "mag" -0.914716719605263
-"774" "laying" "test" "fBodyBodyGyroMag" "std" "mag" -0.95021154301676
-"775" "walking" "train" "fBodyBodyGyroMag" "std" "mag" -0.451461098451794
-"776" "walking_upstairs" "train" "fBodyBodyGyroMag" "std" "mag" -0.346609728583225
-"777" "walking_downstairs" "train" "fBodyBodyGyroMag" "std" "mag" -0.341661716555527
-"778" "sitting" "train" "fBodyBodyGyroMag" "std" "mag" -0.951296691880249
-"779" "standing" "train" "fBodyBodyGyroMag" "std" "mag" -0.936800772816594
-"780" "laying" "train" "fBodyBodyGyroMag" "std" "mag" -0.939025835269367
-"781" "walking" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.546820470782661
-"782" "walking_upstairs" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.706477443375796
-"783" "walking_downstairs" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.494187116095476
-"784" "sitting" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.98400311509165
-"785" "standing" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.967361696372181
-"786" "laying" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.975401442439479
-"787" "walking" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.501290499908646
-"788" "walking_upstairs" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.701593753741845
-"789" "walking_downstairs" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.483144255183296
-"790" "sitting" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.984677767993779
-"791" "standing" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.975822682598253
-"792" "laying" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.977124064577114
+"walking" "test" "tBodyAcc" "mean" "X" 0.276526397258064
+"walking_upstairs" "test" "tBodyAcc" "mean" "X" 0.263126445989384
+"walking_downstairs" "test" "tBodyAcc" "mean" "X" 0.288062900461905
+"sitting" "test" "tBodyAcc" "mean" "X" 0.272039760352342
+"standing" "test" "tBodyAcc" "mean" "X" 0.278791235789474
+"laying" "test" "tBodyAcc" "mean" "X" 0.267227589560521
+"walking" "train" "tBodyAcc" "mean" "X" 0.276260200872757
+"walking_upstairs" "train" "tBodyAcc" "mean" "X" 0.261929527252004
+"walking_downstairs" "train" "tBodyAcc" "mean" "X" 0.288168888475659
+"sitting" "train" "tBodyAcc" "mean" "X" 0.273448998825428
+"standing" "train" "tBodyAcc" "mean" "X" 0.279293757074236
+"laying" "train" "tBodyAcc" "mean" "X" 0.26919100708877
+"walking" "test" "tBodyAcc" "mean" "Y" -0.018250712002498
+"walking_upstairs" "test" "tBodyAcc" "mean" "Y" -0.0242744604190291
+"walking_downstairs" "test" "tBodyAcc" "mean" "Y" -0.0161751510247702
+"sitting" "test" "tBodyAcc" "mean" "Y" -0.0141221515132994
+"standing" "test" "tBodyAcc" "mean" "Y" -0.0162262731035301
+"laying" "test" "tBodyAcc" "mean" "Y" -0.0182456228329236
+"walking" "train" "tBodyAcc" "mean" "Y" -0.0177677108511182
+"walking_upstairs" "train" "tBodyAcc" "mean" "Y" -0.0266470525735974
+"walking_downstairs" "train" "tBodyAcc" "mean" "Y" -0.0163701864217556
+"sitting" "train" "tBodyAcc" "mean" "Y" -0.0121426088459798
+"standing" "train" "tBodyAcc" "mean" "Y" -0.0161230846636681
+"laying" "train" "tBodyAcc" "mean" "Y" -0.0183452479771855
+"walking" "test" "tBodyAcc" "mean" "Z" -0.108875750766129
+"walking_upstairs" "test" "tBodyAcc" "mean" "Z" -0.120798485155414
+"walking_downstairs" "test" "tBodyAcc" "mean" "Z" -0.105529914174286
+"sitting" "test" "tBodyAcc" "mean" "Z" -0.102730909698778
+"standing" "test" "tBodyAcc" "mean" "Z" -0.10466868287406
+"laying" "test" "tBodyAcc" "mean" "Z" -0.108134996675233
+"walking" "train" "tBodyAcc" "mean" "Z" -0.108884089505465
+"walking_upstairs" "train" "tBodyAcc" "mean" "Z" -0.120423564420037
+"walking_downstairs" "train" "tBodyAcc" "mean" "Z" -0.105860325152107
+"sitting" "train" "tBodyAcc" "mean" "Z" -0.106580744993313
+"standing" "train" "tBodyAcc" "mean" "Z" -0.10732962785709
+"laying" "train" "tBodyAcc" "mean" "Z" -0.107168709636461
+"walking" "test" "tGravityAcc" "mean" "X" 0.939130584415323
+"walking_upstairs" "test" "tGravityAcc" "mean" "X" 0.880983929469214
+"walking_downstairs" "test" "tGravityAcc" "mean" "X" 0.931437114714286
+"sitting" "test" "tGravityAcc" "mean" "X" 0.9028616299389
+"standing" "test" "tGravityAcc" "mean" "X" 0.943091097537594
+"laying" "test" "tGravityAcc" "mean" "X" -0.385937754614525
+"walking" "train" "tGravityAcc" "mean" "X" 0.933317070057096
+"walking_upstairs" "train" "tGravityAcc" "mean" "X" 0.872378174930103
+"walking_downstairs" "train" "tGravityAcc" "mean" "X" 0.924336230375254
+"sitting" "train" "tGravityAcc" "mean" "X" 0.870899899300156
+"standing" "train" "tGravityAcc" "mean" "X" 0.940855692081514
+"laying" "train" "tGravityAcc" "mean" "X" -0.370854938686567
+"walking" "test" "tGravityAcc" "mean" "Y" -0.189780957912097
+"walking_upstairs" "test" "tGravityAcc" "mean" "Y" -0.268759574031847
+"walking_downstairs" "test" "tGravityAcc" "mean" "Y" -0.171822241287476
+"sitting" "test" "tGravityAcc" "mean" "Y" 0.071857995734034
+"standing" "test" "tGravityAcc" "mean" "Y" -0.189637522767538
+"laying" "test" "tGravityAcc" "mean" "Y" 0.594350912979516
+"walking" "train" "tGravityAcc" "mean" "Y" -0.199518178897227
+"walking_upstairs" "train" "tGravityAcc" "mean" "Y" -0.28691577583411
+"walking_downstairs" "train" "tGravityAcc" "mean" "Y" -0.167095144852028
+"sitting" "train" "tGravityAcc" "mean" "Y" 0.122785136286184
+"standing" "train" "tGravityAcc" "mean" "Y" -0.182159165492402
+"laying" "train" "tGravityAcc" "mean" "Y" 0.632926187069652
+"walking" "test" "tGravityAcc" "mean" "Z" -0.0264384787160887
+"walking_upstairs" "test" "tGravityAcc" "mean" "Z" -0.123669693229008
+"walking_downstairs" "test" "tGravityAcc" "mean" "Z" -0.038043391203381
+"sitting" "test" "tGravityAcc" "mean" "Z" 0.131904738775356
+"standing" "test" "tGravityAcc" "mean" "Z" 0.0204009151990789
+"laying" "test" "tGravityAcc" "mean" "Z" 0.503317463620112
+"walking" "train" "tGravityAcc" "mean" "Z" -0.0649048773550457
+"walking_upstairs" "train" "tGravityAcc" "mean" "Z" -0.148313217708166
+"walking_downstairs" "train" "tGravityAcc" "mean" "Z" -0.0521996569589989
+"sitting" "train" "tGravityAcc" "mean" "Z" 0.162123894662294
+"standing" "train" "tGravityAcc" "mean" "Z" -0.0273917941389855
+"laying" "train" "tGravityAcc" "mean" "Z" 0.57557155056091
+"walking" "test" "tBodyAccJerk" "mean" "X" 0.0731737339316129
+"walking_upstairs" "test" "tBodyAccJerk" "mean" "X" 0.0734505822969214
+"walking_downstairs" "test" "tBodyAccJerk" "mean" "X" 0.0916206223598452
+"sitting" "test" "tBodyAccJerk" "mean" "X" 0.076153849587169
+"standing" "test" "tBodyAccJerk" "mean" "X" 0.075468957712782
+"laying" "test" "tBodyAccJerk" "mean" "X" 0.0825682671290503
+"walking" "train" "tBodyAccJerk" "mean" "X" 0.0781529317778793
+"walking_upstairs" "train" "tBodyAccJerk" "mean" "X" 0.0781685444347158
+"walking_downstairs" "train" "tBodyAccJerk" "mean" "X" 0.0882069647409736
+"sitting" "train" "tBodyAccJerk" "mean" "X" 0.0757738529781182
+"standing" "train" "tBodyAccJerk" "mean" "X" 0.07485715063377
+"laying" "train" "tBodyAccJerk" "mean" "X" 0.0815722575616205
+"walking" "test" "tBodyAccJerk" "mean" "Y" 0.00998238899389113
+"walking_upstairs" "test" "tBodyAccJerk" "mean" "Y" 0.00490440295949045
+"walking_downstairs" "test" "tBodyAccJerk" "mean" "Y" -0.00322121589102381
+"sitting" "test" "tBodyAccJerk" "mean" "Y" 0.00523557345498982
+"standing" "test" "tBodyAccJerk" "mean" "Y" 0.00888523101716541
+"laying" "test" "tBodyAccJerk" "mean" "Y" 0.0107112016761881
+"walking" "train" "tBodyAccJerk" "mean" "Y" 0.0121226741316897
+"walking_upstairs" "train" "tBodyAccJerk" "mean" "Y" 0.0104508404666636
+"walking_downstairs" "train" "tBodyAccJerk" "mean" "Y" 0.00243695730748479
+"sitting" "train" "tBodyAccJerk" "mean" "Y" 0.00497487103109658
+"standing" "train" "tBodyAccJerk" "mean" "Y" 0.00877429407298399
+"laying" "train" "tBodyAccJerk" "mean" "Y" 0.0113483623410661
+"walking" "test" "tBodyAccJerk" "mean" "Z" 0.00123049294354839
+"walking_upstairs" "test" "tBodyAccJerk" "mean" "Z" -0.00709425056157112
+"walking_downstairs" "test" "tBodyAccJerk" "mean" "Z" -0.00838420495773809
+"sitting" "test" "tBodyAccJerk" "mean" "Z" -0.00410731471661263
+"standing" "test" "tBodyAccJerk" "mean" "Z" -0.00641548605615977
+"laying" "test" "tBodyAccJerk" "mean" "Z" -0.00364736361863873
+"walking" "train" "tBodyAccJerk" "mean" "Z" -0.00375555256860604
+"walking_upstairs" "train" "tBodyAccJerk" "mean" "Z" -0.0055333909217521
+"walking_downstairs" "train" "tBodyAccJerk" "mean" "Z" -0.00887530540913793
+"sitting" "train" "tBodyAccJerk" "mean" "Z" -0.00186788827412442
+"standing" "train" "tBodyAccJerk" "mean" "Z" -0.00387217635462227
+"laying" "train" "tBodyAccJerk" "mean" "Z" -0.00532249999608209
+"walking" "test" "tBodyGyro" "mean" "X" -0.0433151675165726
+"walking_upstairs" "test" "tBodyGyro" "mean" "X" -0.0252961131944798
+"walking_downstairs" "test" "tBodyGyro" "mean" "X" -0.101341612095476
+"sitting" "test" "tBodyGyro" "mean" "X" -0.0400046946661914
+"standing" "test" "tBodyGyro" "mean" "X" -0.0276270984325752
+"laying" "test" "tBodyGyro" "mean" "X" -0.0166314081294004
+"walking" "train" "tBodyGyro" "mean" "X" -0.0312533147691762
+"walking_upstairs" "train" "tBodyGyro" "mean" "X" 0.0209240364789655
+"walking_downstairs" "train" "tBodyGyro" "mean" "X" -0.0766623641270639
+"sitting" "train" "tBodyGyro" "mean" "X" -0.0378305948293904
+"standing" "train" "tBodyGyro" "mean" "X" -0.0263231980185808
+"laying" "train" "tBodyGyro" "mean" "X" -0.0167611908027991
+"walking" "test" "tBodyGyro" "mean" "Y" -0.0647420858230101
+"walking_upstairs" "test" "tBodyGyro" "mean" "Y" -0.0693319879901062
+"walking_downstairs" "test" "tBodyGyro" "mean" "Y" -0.0461447231649762
+"sitting" "test" "tBodyGyro" "mean" "Y" -0.0703346296040733
+"standing" "test" "tBodyGyro" "mean" "Y" -0.0719404272818233
+"laying" "test" "tBodyGyro" "mean" "Y" -0.0979956312043575
+"walking" "train" "tBodyGyro" "mean" "Y" -0.0713125942324959
+"walking_upstairs" "train" "tBodyGyro" "mean" "Y" -0.0969463358755993
+"walking_downstairs" "train" "tBodyGyro" "mean" "Y" -0.0559099218163377
+"sitting" "train" "tBodyGyro" "mean" "Y" -0.0728027807545334
+"standing" "train" "tBodyGyro" "mean" "Y" -0.0660746057299709
+"laying" "train" "tBodyGyro" "mean" "Y" -0.091660815198081
+"walking" "test" "tBodyGyro" "mean" "Z" 0.0917220728034476
+"walking_upstairs" "test" "tBodyGyro" "mean" "Z" 0.0844374813053079
+"walking_downstairs" "test" "tBodyGyro" "mean" "Z" 0.0964457295442619
+"sitting" "test" "tBodyGyro" "mean" "Z" 0.0759514418063747
+"standing" "test" "tBodyGyro" "mean" "Z" 0.0836650240665414
+"laying" "test" "tBodyGyro" "mean" "Z" 0.122576525847486
+"walking" "train" "tBodyGyro" "mean" "Z" 0.0841943988581277
+"walking_upstairs" "train" "tBodyGyro" "mean" "Z" 0.0491202105442125
+"walking_downstairs" "train" "tBodyGyro" "mean" "Z" 0.0939252913958722
+"sitting" "train" "tBodyGyro" "mean" "Z" 0.0784742074521695
+"standing" "train" "tBodyGyro" "mean" "Z" 0.0787782501328239
+"laying" "train" "tBodyGyro" "mean" "Z" 0.127147917707889
+"walking" "test" "tBodyGyroJerk" "mean" "X" -0.0878835560618952
+"walking_upstairs" "test" "tBodyGyroJerk" "mean" "X" -0.104105469604607
+"walking_downstairs" "test" "tBodyGyroJerk" "mean" "X" -0.0695720976611905
+"sitting" "test" "tBodyGyroJerk" "mean" "X" -0.0948832319185336
+"standing" "test" "tBodyGyroJerk" "mean" "X" -0.100461129155075
+"laying" "test" "tBodyGyroJerk" "mean" "X" -0.101457328947858
+"walking" "train" "tBodyGyroJerk" "mean" "X" -0.0968968860162643
+"walking_upstairs" "train" "tBodyGyroJerk" "mean" "X" -0.115634379434529
+"walking_downstairs" "train" "tBodyGyroJerk" "mean" "X" -0.0742508688621095
+"sitting" "train" "tBodyGyroJerk" "mean" "X" -0.0959456649824261
+"standing" "train" "tBodyGyroJerk" "mean" "X" -0.0994459157848617
+"laying" "train" "tBodyGyroJerk" "mean" "X" -0.102019624959062
+"walking" "test" "tBodyGyroJerk" "mean" "Y" -0.0452121990068548
+"walking_upstairs" "test" "tBodyGyroJerk" "mean" "Y" -0.0370180926612527
+"walking_downstairs" "test" "tBodyGyroJerk" "mean" "Y" -0.0496904002757143
+"sitting" "test" "tBodyGyroJerk" "mean" "Y" -0.0412598892004073
+"standing" "test" "tBodyGyroJerk" "mean" "Y" -0.0419899598712406
+"laying" "test" "tBodyGyroJerk" "mean" "Y" -0.03801389731527
+"walking" "train" "tBodyGyroJerk" "mean" "Y" -0.0443103427345922
+"walking_upstairs" "train" "tBodyGyroJerk" "mean" "Y" -0.0393221127075303
+"walking_downstairs" "train" "tBodyGyroJerk" "mean" "Y" -0.0519342665009533
+"sitting" "train" "tBodyGyroJerk" "mean" "Y" -0.0405964730900187
+"standing" "train" "tBodyGyroJerk" "mean" "Y" -0.0424437794962882
+"laying" "train" "tBodyGyroJerk" "mean" "Y" -0.0382683832088763
+"walking" "test" "tBodyGyroJerk" "mean" "Z" -0.0579666753374798
+"walking_upstairs" "test" "tBodyGyroJerk" "mean" "Z" -0.0539430325613588
+"walking_downstairs" "test" "tBodyGyroJerk" "mean" "Z" -0.0588719525257143
+"sitting" "test" "tBodyGyroJerk" "mean" "Z" -0.0493232638925051
+"standing" "test" "tBodyGyroJerk" "mean" "Z" -0.0528522741647744
+"laying" "test" "tBodyGyroJerk" "mean" "Z" -0.0634655948080075
+"walking" "train" "tBodyGyroJerk" "mean" "Z" -0.0524042952439478
+"walking_upstairs" "train" "tBodyGyroJerk" "mean" "Z" -0.0519831673859832
+"walking_downstairs" "train" "tBodyGyroJerk" "mean" "Z" -0.052917414205284
+"sitting" "train" "tBodyGyroJerk" "mean" "Z" -0.0513023722602862
+"standing" "train" "tBodyGyroJerk" "mean" "Z" -0.0518025512964192
+"laying" "train" "tBodyGyroJerk" "mean" "Z" -0.0639964642257285
+"walking" "test" "tBodyAccMag" "mean" "mag" -0.185612933587746
+"walking_upstairs" "test" "tBodyAccMag" "mean" "mag" -0.156596937200552
+"walking_downstairs" "test" "tBodyAccMag" "mean" "mag" 0.0164621317664286
+"sitting" "test" "tBodyAccMag" "mean" "mag" -0.953534394704684
+"standing" "test" "tBodyAccMag" "mean" "mag" -0.947440893270677
+"laying" "test" "tBodyAccMag" "mean" "mag" -0.961578850614525
+"walking" "train" "tBodyAccMag" "mean" "mag" -0.16078708767832
+"walking_upstairs" "train" "tBodyAccMag" "mean" "mag" -0.0754501490696831
+"walking_downstairs" "train" "tBodyAccMag" "mean" "mag" 0.137366108163682
+"sitting" "train" "tBodyAccMag" "mean" "mag" -0.955067543234837
+"standing" "train" "tBodyAccMag" "mean" "mag" -0.95678885018195
+"laying" "train" "tBodyAccMag" "mean" "mag" -0.933298701817342
+"walking" "test" "tGravityAccMag" "mean" "mag" -0.185612933587746
+"walking_upstairs" "test" "tGravityAccMag" "mean" "mag" -0.156596937200552
+"walking_downstairs" "test" "tGravityAccMag" "mean" "mag" 0.0164621317664286
+"sitting" "test" "tGravityAccMag" "mean" "mag" -0.953534394704684
+"standing" "test" "tGravityAccMag" "mean" "mag" -0.947440893270677
+"laying" "test" "tGravityAccMag" "mean" "mag" -0.961578850614525
+"walking" "train" "tGravityAccMag" "mean" "mag" -0.16078708767832
+"walking_upstairs" "train" "tGravityAccMag" "mean" "mag" -0.0754501490696831
+"walking_downstairs" "train" "tGravityAccMag" "mean" "mag" 0.137366108163682
+"sitting" "train" "tGravityAccMag" "mean" "mag" -0.955067543234837
+"standing" "train" "tGravityAccMag" "mean" "mag" -0.95678885018195
+"laying" "train" "tGravityAccMag" "mean" "mag" -0.933298701817342
+"walking" "test" "tBodyAccJerkMag" "mean" "mag" -0.237173351544978
+"walking_upstairs" "test" "tBodyAccJerkMag" "mean" "mag" -0.412947118942675
+"walking_downstairs" "test" "tBodyAccJerkMag" "mean" "mag" -0.163692387624738
+"sitting" "test" "tBodyAccJerkMag" "mean" "mag" -0.981076791425662
+"standing" "test" "tBodyAccJerkMag" "mean" "mag" -0.972931858515038
+"laying" "test" "tBodyAccJerkMag" "mean" "mag" -0.979577853575419
+"walking" "train" "tBodyAccJerkMag" "mean" "mag" -0.243182988691175
+"walking_upstairs" "train" "tBodyAccJerkMag" "mean" "mag" -0.38127785952479
+"walking_downstairs" "train" "tBodyAccJerkMag" "mean" "mag" -0.0896983345591278
+"sitting" "train" "tBodyAccJerkMag" "mean" "mag" -0.982966618413686
+"standing" "train" "tBodyAccJerkMag" "mean" "mag" -0.978738869002911
+"laying" "train" "tBodyAccJerkMag" "mean" "mag" -0.979067883653163
+"walking" "test" "tBodyGyroMag" "mean" "mag" -0.318522629716532
+"walking_upstairs" "test" "tBodyGyroMag" "mean" "mag" -0.20735406242569
+"walking_downstairs" "test" "tBodyGyroMag" "mean" "mag" -0.188907287860786
+"sitting" "test" "tBodyGyroMag" "mean" "mag" -0.944897951527495
+"standing" "test" "tBodyGyroMag" "mean" "mag" -0.929095799830827
+"laying" "test" "tBodyGyroMag" "mean" "mag" -0.945435104413408
+"walking" "train" "tBodyGyroMag" "mean" "mag" -0.257203964799315
+"walking_upstairs" "train" "tBodyGyroMag" "mean" "mag" -0.165519411338164
+"walking_downstairs" "train" "tBodyGyroMag" "mean" "mag" -0.104601976301298
+"sitting" "train" "tBodyGyroMag" "mean" "mag" -0.94742138466563
+"standing" "train" "tBodyGyroMag" "mean" "mag" -0.947207964796215
+"laying" "train" "tBodyGyroMag" "mean" "mag" -0.935764661371713
+"walking" "test" "tBodyGyroJerkMag" "mean" "mag" -0.486469326477823
+"walking_upstairs" "test" "tBodyGyroJerkMag" "mean" "mag" -0.623815676008493
+"walking_downstairs" "test" "tBodyGyroJerkMag" "mean" "mag" -0.463187856659524
+"sitting" "test" "tBodyGyroJerkMag" "mean" "mag" -0.986915690997963
+"standing" "test" "tBodyGyroJerkMag" "mean" "mag" -0.973808504699248
+"laying" "test" "tBodyGyroJerkMag" "mean" "mag" -0.981573659888268
+"walking" "train" "tBodyGyroJerkMag" "mean" "mag" -0.450009825369331
+"walking_upstairs" "train" "tBodyGyroJerkMag" "mean" "mag" -0.601125454923672
+"walking_downstairs" "train" "tBodyGyroJerkMag" "mean" "mag" -0.397171015459939
+"sitting" "train" "tBodyGyroJerkMag" "mean" "mag" -0.988248275785381
+"standing" "train" "tBodyGyroJerkMag" "mean" "mag" -0.980589908020378
+"laying" "train" "tBodyGyroJerkMag" "mean" "mag" -0.983166670739161
+"walking" "test" "fBodyAcc" "mean" "X" -0.294540792568548
+"walking_upstairs" "test" "fBodyAcc" "mean" "X" -0.311470643287898
+"walking_downstairs" "test" "fBodyAcc" "mean" "X" -0.0494806268985714
+"sitting" "test" "fBodyAcc" "mean" "X" -0.982716887922607
+"standing" "test" "fBodyAcc" "mean" "X" -0.978289100733083
+"laying" "test" "fBodyAcc" "mean" "X" -0.968327808193668
+"walking" "train" "fBodyAcc" "mean" "X" -0.299246289954772
+"walking_upstairs" "train" "fBodyAcc" "mean" "X" -0.285477495368322
+"walking_downstairs" "train" "fBodyAcc" "mean" "X" 0.0713559405859939
+"sitting" "train" "fBodyAcc" "mean" "X" -0.983235173297045
+"standing" "train" "fBodyAcc" "mean" "X" -0.982912890618632
+"laying" "train" "fBodyAcc" "mean" "X" -0.96623357050462
+"walking" "test" "fBodyAcc" "mean" "Y" -0.0479779302057258
+"walking_upstairs" "test" "fBodyAcc" "mean" "Y" -0.163527702472505
+"walking_downstairs" "test" "fBodyAcc" "mean" "Y" 0.0165795902297619
+"sitting" "test" "fBodyAcc" "mean" "Y" -0.945651716354379
+"standing" "test" "fBodyAcc" "mean" "Y" -0.935336432838346
+"laying" "test" "fBodyAcc" "mean" "Y" -0.962864108901304
+"walking" "train" "fBodyAcc" "mean" "Y" -0.0400579863409135
+"walking_upstairs" "train" "fBodyAcc" "mean" "Y" -0.12240638059096
+"walking_downstairs" "train" "fBodyAcc" "mean" "Y" 0.0737650952372211
+"sitting" "train" "fBodyAcc" "mean" "Y" -0.948783229545879
+"standing" "train" "fBodyAcc" "mean" "Y" -0.946150893748181
+"laying" "train" "fBodyAcc" "mean" "Y" -0.948790913989339
+"walking" "test" "fBodyAcc" "mean" "Z" -0.3951612810625
+"walking_upstairs" "test" "fBodyAcc" "mean" "Z" -0.403859087158599
+"walking_downstairs" "test" "fBodyAcc" "mean" "Z" -0.262449728171024
+"sitting" "test" "fBodyAcc" "mean" "Z" -0.955853613588595
+"standing" "test" "fBodyAcc" "mean" "Z" -0.952981901785714
+"laying" "test" "fBodyAcc" "mean" "Z" -0.969993645065177
+"walking" "train" "fBodyAcc" "mean" "Z" -0.320268879986729
+"walking_upstairs" "train" "fBodyAcc" "mean" "Z" -0.352435071945573
+"walking_downstairs" "train" "fBodyAcc" "mean" "Z" -0.192976080589219
+"sitting" "train" "fBodyAcc" "mean" "Z" -0.957480579844479
+"standing" "train" "fBodyAcc" "mean" "Z" -0.959054674475983
+"laying" "train" "fBodyAcc" "mean" "Z" -0.956210691862118
+"walking" "test" "fBodyAccJerk" "mean" "X" -0.286425196154032
+"walking_upstairs" "test" "fBodyAccJerk" "mean" "X" -0.401066805742038
+"walking_downstairs" "test" "fBodyAccJerk" "mean" "X" -0.130190510361712
+"sitting" "test" "fBodyAccJerk" "mean" "X" -0.983854947474542
+"standing" "test" "fBodyAccJerk" "mean" "X" -0.975829558834586
+"laying" "test" "fBodyAccJerk" "mean" "X" -0.980219864897579
+"walking" "train" "fBodyAccJerk" "mean" "X" -0.321121167768654
+"walking_upstairs" "train" "fBodyAccJerk" "mean" "X" -0.384993618073159
+"walking_downstairs" "train" "fBodyAccJerk" "mean" "X" -0.0476361590971602
+"sitting" "train" "fBodyAccJerk" "mean" "X" -0.985698027869362
+"standing" "train" "fBodyAccJerk" "mean" "X" -0.981626816149927
+"laying" "train" "fBodyAccJerk" "mean" "X" -0.980189178550107
+"walking" "test" "fBodyAccJerk" "mean" "Y" -0.163611924388669
+"walking_upstairs" "test" "fBodyAccJerk" "mean" "Y" -0.38710223800034
+"walking_downstairs" "test" "fBodyAccJerk" "mean" "Y" -0.141035351083571
+"sitting" "test" "fBodyAccJerk" "mean" "Y" -0.971843441731161
+"standing" "test" "fBodyAccJerk" "mean" "Y" -0.958388878139098
+"laying" "test" "fBodyAccJerk" "mean" "Y" -0.972664254394786
+"walking" "train" "fBodyAccJerk" "mean" "Y" -0.173139305678834
+"walking_upstairs" "train" "fBodyAccJerk" "mean" "Y" -0.35481868269617
+"walking_downstairs" "train" "fBodyAccJerk" "mean" "Y" -0.105878566493306
+"sitting" "train" "fBodyAccJerk" "mean" "Y" -0.974807063335925
+"standing" "train" "fBodyAccJerk" "mean" "Y" -0.966931953151383
+"laying" "train" "fBodyAccJerk" "mean" "Y" -0.97089486137882
+"walking" "test" "fBodyAccJerk" "mean" "Z" -0.492933167243952
+"walking_upstairs" "test" "fBodyAccJerk" "mean" "Z" -0.602911767919321
+"walking_downstairs" "test" "fBodyAccJerk" "mean" "Z" -0.376826510175
+"sitting" "test" "fBodyAccJerk" "mean" "Z" -0.978797028004073
+"standing" "test" "fBodyAccJerk" "mean" "Z" -0.972891029661654
+"laying" "test" "fBodyAccJerk" "mean" "Z" -0.977401070260708
+"walking" "train" "fBodyAccJerk" "mean" "Z" -0.434049963153246
+"walking_upstairs" "train" "fBodyAccJerk" "mean" "Z" -0.586735444993476
+"walking_downstairs" "train" "fBodyAccJerk" "mean" "Z" -0.314602839812373
+"sitting" "train" "fBodyAccJerk" "mean" "Z" -0.979854031073095
+"standing" "train" "fBodyAccJerk" "mean" "Z" -0.977422716790393
+"laying" "train" "fBodyAccJerk" "mean" "Z" -0.97631433684435
+"walking" "test" "fBodyGyro" "mean" "X" -0.362109013486694
+"walking_upstairs" "test" "fBodyGyro" "mean" "X" -0.408927905006157
+"walking_downstairs" "test" "fBodyGyro" "mean" "X" -0.255811666394548
+"sitting" "test" "fBodyGyro" "mean" "X" -0.975674870224033
+"standing" "test" "fBodyGyro" "mean" "X" -0.929640505827068
+"laying" "test" "fBodyGyro" "mean" "X" -0.969382140558659
+"walking" "train" "fBodyGyro" "mean" "X" -0.342625352351713
+"walking_upstairs" "train" "fBodyGyro" "mean" "X" -0.387804415129357
+"walking_downstairs" "train" "fBodyGyro" "mean" "X" -0.201783634086511
+"sitting" "train" "fBodyGyro" "mean" "X" -0.977875242783826
+"standing" "train" "fBodyGyro" "mean" "X" -0.949080252780204
+"laying" "train" "fBodyGyro" "mean" "X" -0.960446780433049
+"walking" "test" "fBodyGyro" "mean" "Y" -0.425951988348931
+"walking_upstairs" "test" "fBodyGyro" "mean" "Y" -0.491062764201911
+"walking_downstairs" "test" "fBodyGyro" "mean" "Y" -0.389901050633571
+"sitting" "test" "fBodyGyro" "mean" "Y" -0.973174330101833
+"standing" "test" "fBodyGyro" "mean" "Y" -0.958267475281955
+"laying" "test" "fBodyGyro" "mean" "Y" -0.966120752178771
+"walking" "train" "fBodyGyro" "mean" "Y" -0.373186450008817
+"walking_upstairs" "train" "fBodyGyro" "mean" "Y" -0.445290581715704
+"walking_downstairs" "train" "fBodyGyro" "mean" "Y" -0.28679197429716
+"sitting" "train" "fBodyGyro" "mean" "Y" -0.972183939828927
+"standing" "train" "fBodyGyro" "mean" "Y" -0.968026748042213
+"laying" "train" "fBodyGyro" "mean" "Y" -0.968139785280739
+"walking" "test" "fBodyGyro" "mean" "Z" -0.338214254380242
+"walking_upstairs" "test" "fBodyGyro" "mean" "Z" -0.295292222497452
+"walking_downstairs" "test" "fBodyGyro" "mean" "Z" -0.195446042195476
+"sitting" "test" "fBodyGyro" "mean" "Z" -0.959785362179226
+"standing" "test" "fBodyGyro" "mean" "Z" -0.950343429605263
+"laying" "test" "fBodyGyro" "mean" "Z" -0.968285986927374
+"walking" "train" "fBodyGyro" "mean" "Z" -0.299156019251648
+"walking_upstairs" "train" "fBodyGyro" "mean" "Z" -0.297544907199814
+"walking_downstairs" "train" "fBodyGyro" "mean" "Z" -0.152922530932252
+"sitting" "train" "fBodyGyro" "mean" "Z" -0.961503434618974
+"standing" "train" "fBodyGyro" "mean" "Z" -0.961498605240175
+"laying" "train" "fBodyGyro" "mean" "Z" -0.962619007583511
+"walking" "test" "fBodyAccMag" "mean" "mag" -0.277965865165121
+"walking_upstairs" "test" "fBodyAccMag" "mean" "mag" -0.292081504854565
+"walking_downstairs" "test" "fBodyAccMag" "mean" "mag" 0.0766089178870952
+"sitting" "test" "fBodyAccMag" "mean" "mag" -0.951721972551935
+"standing" "test" "fBodyAccMag" "mean" "mag" -0.949774215169173
+"laying" "test" "fBodyAccMag" "mean" "mag" -0.957424189783985
+"walking" "train" "fBodyAccMag" "mean" "mag" -0.274583992340065
+"walking_upstairs" "train" "fBodyAccMag" "mean" "mag" -0.248835990713271
+"walking_downstairs" "train" "fBodyAccMag" "mean" "mag" 0.171065464344219
+"sitting" "train" "fBodyAccMag" "mean" "mag" -0.952673262657854
+"standing" "train" "fBodyAccMag" "mean" "mag" -0.958227593384279
+"laying" "train" "fBodyAccMag" "mean" "mag" -0.943950932251599
+"walking" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.200266603682944
+"walking_upstairs" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.355087381332696
+"walking_downstairs" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.0487443964492857
+"sitting" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.977173862342159
+"standing" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.965635777255639
+"laying" "test" "fBodyBodyAccJerkMag" "mean" "mag" -0.974611609068901
+"walking" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.220474636401958
+"walking_upstairs" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.353468006783504
+"walking_downstairs" "train" "fBodyBodyAccJerkMag" "mean" "mag" 0.027554426056359
+"sitting" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.979261088468118
+"standing" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.973202412219796
+"laying" "train" "fBodyBodyAccJerkMag" "mean" "mag" -0.9741812297086
+"walking" "test" "fBodyBodyGyroMag" "mean" "mag" -0.448021014490363
+"walking_upstairs" "test" "fBodyBodyGyroMag" "mean" "mag" -0.495846446322718
+"walking_downstairs" "test" "fBodyBodyGyroMag" "mean" "mag" -0.344731299676667
+"sitting" "test" "fBodyBodyGyroMag" "mean" "mag" -0.964803846456212
+"standing" "test" "fBodyBodyGyroMag" "mean" "mag" -0.935236448120301
+"laying" "test" "fBodyBodyGyroMag" "mean" "mag" -0.957813942756052
+"walking" "train" "fBodyBodyGyroMag" "mean" "mag" -0.393456402177055
+"walking_upstairs" "train" "fBodyBodyGyroMag" "mean" "mag" -0.429560837457409
+"walking_downstairs" "train" "fBodyBodyGyroMag" "mean" "mag" -0.266010319105811
+"sitting" "train" "fBodyBodyGyroMag" "mean" "mag" -0.964102259572317
+"standing" "train" "fBodyBodyGyroMag" "mean" "mag" -0.952814999133916
+"laying" "train" "fBodyBodyGyroMag" "mean" "mag" -0.953724931549396
+"walking" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.53629723682746
+"walking_upstairs" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.666239280021231
+"walking_downstairs" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.472266338783095
+"sitting" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.984435176130346
+"standing" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.968115551522556
+"laying" "test" "fBodyBodyGyroJerkMag" "mean" "mag" -0.976359034581006
+"walking" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.507109768565555
+"walking_upstairs" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.655382609368593
+"walking_downstairs" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.423414186458479
+"sitting" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.985679431041991
+"standing" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.97750742639738
+"laying" "train" "fBodyBodyGyroJerkMag" "mean" "mag" -0.978582414975124
+"walking" "test" "tBodyAcc" "std" "X" -0.319595856634677
+"walking_upstairs" "test" "tBodyAcc" "std" "X" -0.276529588909979
+"walking_downstairs" "test" "tBodyAcc" "std" "X" 0.00902022030214286
+"sitting" "test" "tBodyAcc" "std" "X" -0.983437472749491
+"standing" "test" "tBodyAcc" "std" "X" -0.982080518496241
+"laying" "test" "tBodyAcc" "std" "X" -0.964750344692737
+"walking" "train" "tBodyAcc" "std" "X" -0.312641276860938
+"walking_upstairs" "train" "tBodyAcc" "std" "X" -0.221072445907903
+"walking_downstairs" "train" "tBodyAcc" "std" "X" 0.139846824303926
+"sitting" "train" "tBodyAcc" "std" "X" -0.983449562153966
+"standing" "train" "tBodyAcc" "std" "X" -0.985346233195051
+"laying" "train" "tBodyAcc" "std" "X" -0.959475238302061
+"walking" "test" "tBodyAcc" "std" "Y" -0.031767626453629
+"walking_upstairs" "test" "tBodyAcc" "std" "Y" -0.0517638240820382
+"walking_downstairs" "test" "tBodyAcc" "std" "Y" 0.0134523978078571
+"sitting" "test" "tBodyAcc" "std" "Y" -0.9314033418778
+"standing" "test" "tBodyAcc" "std" "Y" -0.923457376973684
+"laying" "test" "tBodyAcc" "std" "Y" -0.958961259925512
+"walking" "train" "tBodyAcc" "std" "Y" -0.0202716892534421
+"walking_upstairs" "train" "tBodyAcc" "std" "Y" -0.000348031582171482
+"walking_downstairs" "train" "tBodyAcc" "std" "Y" 0.079183931731927
+"sitting" "train" "tBodyAcc" "std" "Y" -0.936208179940381
+"standing" "train" "tBodyAcc" "std" "Y" -0.936013307409025
+"laying" "train" "tBodyAcc" "std" "Y" -0.937608935448472
+"walking" "test" "tBodyAcc" "std" "Z" -0.342244602873911
+"walking_upstairs" "test" "tBodyAcc" "std" "Z" -0.255380107800849
+"walking_downstairs" "test" "tBodyAcc" "std" "Z" -0.243477099060119
+"sitting" "test" "tBodyAcc" "std" "Z" -0.938215184142566
+"standing" "test" "tBodyAcc" "std" "Z" -0.933595536629699
+"laying" "test" "tBodyAcc" "std" "Z" -0.964927132290503
+"walking" "train" "tBodyAcc" "std" "Z" -0.246279194916452
+"walking_upstairs" "train" "tBodyAcc" "std" "Z" -0.140363752818472
+"walking_downstairs" "train" "tBodyAcc" "std" "Z" -0.168367906550132
+"sitting" "train" "tBodyAcc" "std" "Z" -0.939274193888803
+"standing" "train" "tBodyAcc" "std" "Z" -0.942359763042212
+"laying" "train" "tBodyAcc" "std" "Z" -0.941635287283866
+"walking" "test" "tGravityAcc" "std" "X" -0.977866512903226
+"walking_upstairs" "test" "tGravityAcc" "std" "X" -0.95239939104034
+"walking_downstairs" "test" "tGravityAcc" "std" "X" -0.951956040880952
+"sitting" "test" "tGravityAcc" "std" "X" -0.981298906069246
+"standing" "test" "tGravityAcc" "std" "X" -0.987356506654135
+"laying" "test" "tGravityAcc" "std" "X" -0.947827229962756
+"walking" "train" "tGravityAcc" "std" "X" -0.977509136933116
+"walking_upstairs" "train" "tGravityAcc" "std" "X" -0.946344178769804
+"walking_downstairs" "train" "tGravityAcc" "std" "X" -0.948808651206897
+"sitting" "train" "tGravityAcc" "std" "X" -0.979064977083981
+"standing" "train" "tGravityAcc" "std" "X" -0.988270207540029
+"laying" "train" "tGravityAcc" "std" "X" -0.941599380704335
+"walking" "test" "tGravityAcc" "std" "Y" -0.967576257318548
+"walking_upstairs" "test" "tGravityAcc" "std" "Y" -0.925912647367304
+"walking_downstairs" "test" "tGravityAcc" "std" "Y" -0.933501819642857
+"sitting" "test" "tGravityAcc" "std" "Y" -0.957728709456212
+"standing" "test" "tGravityAcc" "std" "Y" -0.96572940268797
+"laying" "test" "tGravityAcc" "std" "Y" -0.979253784934823
+"walking" "train" "tGravityAcc" "std" "Y" -0.966631852120718
+"walking_upstairs" "train" "tGravityAcc" "std" "Y" -0.925389766076421
+"walking_downstairs" "train" "tGravityAcc" "std" "Y" -0.934591624918864
+"sitting" "train" "tGravityAcc" "std" "Y" -0.957651371119751
+"standing" "train" "tGravityAcc" "std" "Y" -0.970754316870451
+"laying" "train" "tGravityAcc" "std" "Y" -0.957061403069012
+"walking" "test" "tGravityAcc" "std" "Z" -0.959918772116935
+"walking_upstairs" "test" "tGravityAcc" "std" "Z" -0.906976117919321
+"walking_downstairs" "test" "tGravityAcc" "std" "Z" -0.919091320238095
+"sitting" "test" "tGravityAcc" "std" "Z" -0.947828792947047
+"standing" "test" "tGravityAcc" "std" "Z" -0.947266767753759
+"laying" "test" "tGravityAcc" "std" "Z" -0.973531121975791
+"walking" "train" "tGravityAcc" "std" "Z" -0.952444776696574
+"walking_upstairs" "train" "tGravityAcc" "std" "Z" -0.899679890894688
+"walking_downstairs" "train" "tGravityAcc" "std" "Z" -0.909636090415821
+"sitting" "train" "tGravityAcc" "std" "Z" -0.947177473594868
+"standing" "train" "tGravityAcc" "std" "Z" -0.955334333173217
+"laying" "train" "tGravityAcc" "std" "Z" -0.943600986262971
+"walking" "test" "tBodyAccJerk" "std" "X" -0.230634921260282
+"walking_upstairs" "test" "tBodyAccJerk" "std" "X" -0.372285856288747
+"walking_downstairs" "test" "tBodyAccJerk" "std" "X" -0.0941815286700238
+"sitting" "test" "tBodyAccJerk" "std" "X" -0.983563065824847
+"standing" "test" "tBodyAccJerk" "std" "X" -0.975695739736842
+"laying" "test" "tBodyAccJerk" "std" "X" -0.980256750707635
+"walking" "train" "tBodyAccJerk" "std" "X" -0.282116881167088
+"walking_upstairs" "train" "tBodyAccJerk" "std" "X" -0.355849488668406
+"walking_downstairs" "train" "tBodyAccJerk" "std" "X" -0.0081975248379716
+"sitting" "train" "tBodyAccJerk" "std" "X" -0.985544794618974
+"standing" "train" "tBodyAccJerk" "std" "X" -0.981622950225619
+"laying" "train" "tBodyAccJerk" "std" "X" -0.980429538464819
+"walking" "test" "tBodyAccJerk" "std" "Y" -0.0986195505663911
+"walking_upstairs" "test" "tBodyAccJerk" "std" "Y" -0.36356830989087
+"walking_downstairs" "test" "tBodyAccJerk" "std" "Y" -0.101380895052357
+"sitting" "test" "tBodyAccJerk" "std" "Y" -0.971875152668024
+"standing" "test" "tBodyAccJerk" "std" "Y" -0.958496662406015
+"laying" "test" "tBodyAccJerk" "std" "Y" -0.972278279683426
+"walking" "train" "tBodyAccJerk" "std" "Y" -0.104970427937531
+"walking_upstairs" "train" "tBodyAccJerk" "std" "Y" -0.328541506919935
+"walking_downstairs" "train" "tBodyAccJerk" "std" "Y" -0.0618724537659239
+"sitting" "train" "tBodyAccJerk" "std" "Y" -0.974649826034215
+"standing" "train" "tBodyAccJerk" "std" "Y" -0.96660630371179
+"laying" "train" "tBodyAccJerk" "std" "Y" -0.970716016723525
+"walking" "test" "tBodyAccJerk" "std" "Z" -0.521739457217742
+"walking_upstairs" "test" "tBodyAccJerk" "std" "Z" -0.638159602229299
+"walking_downstairs" "test" "tBodyAccJerk" "std" "Z" -0.424200745914286
+"sitting" "test" "tBodyAccJerk" "std" "Z" -0.981694772077393
+"standing" "test" "tBodyAccJerk" "std" "Z" -0.976671984022556
+"laying" "test" "tBodyAccJerk" "std" "Z" -0.979848204692737
+"walking" "train" "tBodyAccJerk" "std" "Z" -0.461915637480408
+"walking_upstairs" "train" "tBodyAccJerk" "std" "Z" -0.622193012661696
+"walking_downstairs" "train" "tBodyAccJerk" "std" "Z" -0.373529594680882
+"sitting" "train" "tBodyAccJerk" "std" "Z" -0.982526224152411
+"standing" "train" "tBodyAccJerk" "std" "Z" -0.980575465705968
+"laying" "train" "tBodyAccJerk" "std" "Z" -0.979334766545842
+"walking" "test" "tBodyGyro" "std" "X" -0.49123325066129
+"walking_upstairs" "test" "tBodyGyro" "std" "X" -0.4816437891862
+"walking_downstairs" "test" "tBodyGyro" "std" "X" -0.373429876892857
+"sitting" "test" "tBodyGyro" "std" "X" -0.980391992382892
+"standing" "test" "tBodyGyro" "std" "X" -0.931444571390977
+"laying" "test" "tBodyGyro" "std" "X" -0.974575194841713
+"walking" "train" "tBodyGyro" "std" "X" -0.461290098708157
+"walking_upstairs" "train" "tBodyGyro" "std" "X" -0.461445663370363
+"walking_downstairs" "train" "tBodyGyro" "std" "X" -0.316944038169878
+"sitting" "train" "tBodyGyro" "std" "X" -0.981262834082426
+"standing" "train" "tBodyGyro" "std" "X" -0.950981475866084
+"laying" "train" "tBodyGyro" "std" "X" -0.965341869218906
+"walking" "test" "tBodyGyro" "std" "Y" -0.40313354348629
+"walking_upstairs" "test" "tBodyGyro" "std" "Y" -0.395856447426093
+"walking_downstairs" "test" "tBodyGyro" "std" "Y" -0.418157975061905
+"sitting" "test" "tBodyGyro" "std" "Y" -0.967761899022403
+"standing" "test" "tBodyGyro" "std" "Y" -0.953936289642857
+"laying" "test" "tBodyGyro" "std" "Y" -0.962547564208566
+"walking" "train" "tBodyGyro" "std" "Y" -0.325584920802455
+"walking_upstairs" "train" "tBodyGyro" "std" "Y" -0.321570850665424
+"walking_downstairs" "train" "tBodyGyro" "std" "Y" -0.306181913257404
+"sitting" "train" "tBodyGyro" "std" "Y" -0.966305793009331
+"standing" "train" "tBodyGyro" "std" "Y" -0.96414183628821
+"laying" "train" "tBodyGyro" "std" "Y" -0.963438605707178
+"walking" "test" "tBodyGyro" "std" "Z" -0.382048326903226
+"walking_upstairs" "test" "tBodyGyro" "std" "Z" -0.234132446747091
+"walking_downstairs" "test" "tBodyGyro" "std" "Z" -0.299487958953952
+"sitting" "test" "tBodyGyro" "std" "Z" -0.955691205600815
+"standing" "test" "tBodyGyro" "std" "Z" -0.949165841541353
+"laying" "test" "tBodyGyro" "std" "Z" -0.968943417318436
+"walking" "train" "tBodyGyro" "std" "Z" -0.32080957637553
+"walking_upstairs" "train" "tBodyGyro" "std" "Z" -0.238455522894334
+"walking_downstairs" "train" "tBodyGyro" "std" "Z" -0.26144603615071
+"sitting" "train" "tBodyGyro" "std" "Z" -0.958891866041991
+"standing" "train" "tBodyGyro" "std" "Z" -0.960106905407569
+"laying" "train" "tBodyGyro" "std" "Z" -0.961435198422175
+"walking" "test" "tBodyGyroJerk" "std" "X" -0.413270422316532
+"walking_upstairs" "test" "tBodyGyroJerk" "std" "X" -0.576962412908705
+"walking_downstairs" "test" "tBodyGyroJerk" "std" "X" -0.403089544085476
+"sitting" "test" "tBodyGyroJerk" "std" "X" -0.983401234236253
+"standing" "test" "tBodyGyroJerk" "std" "X" -0.960413190958647
+"laying" "test" "tBodyGyroJerk" "std" "X" -0.977778340986965
+"walking" "train" "tBodyGyroJerk" "std" "X" -0.361232566109217
+"walking_upstairs" "train" "tBodyGyroJerk" "std" "X" -0.542672583806617
+"walking_downstairs" "train" "tBodyGyroJerk" "std" "X" -0.374000213890974
+"sitting" "train" "tBodyGyroJerk" "std" "X" -0.98658476348367
+"standing" "train" "tBodyGyroJerk" "std" "X" -0.969492009825327
+"laying" "train" "tBodyGyroJerk" "std" "X" -0.975493723411514
+"walking" "test" "tBodyGyroJerk" "std" "Y" -0.536563346574597
+"walking_upstairs" "test" "tBodyGyroJerk" "std" "Y" -0.681691906666667
+"walking_downstairs" "test" "tBodyGyroJerk" "std" "Y" -0.515669184902381
+"sitting" "test" "tBodyGyroJerk" "std" "Y" -0.986105054114053
+"standing" "test" "tBodyGyroJerk" "std" "Y" -0.975663792180451
+"laying" "test" "tBodyGyroJerk" "std" "Y" -0.977947653873371
+"walking" "train" "tBodyGyroJerk" "std" "Y" -0.502931986096003
+"walking_upstairs" "train" "tBodyGyroJerk" "std" "Y" -0.661038928760485
+"walking_downstairs" "train" "tBodyGyroJerk" "std" "Y" -0.444762616614097
+"sitting" "train" "tBodyGyroJerk" "std" "Y" -0.986654023623639
+"standing" "train" "tBodyGyroJerk" "std" "Y" -0.98204418555313
+"laying" "train" "tBodyGyroJerk" "std" "Y" -0.981437634278607
+"walking" "test" "tBodyGyroJerk" "std" "Z" -0.463647341954839
+"walking_upstairs" "test" "tBodyGyroJerk" "std" "Z" -0.554141881365605
+"walking_downstairs" "test" "tBodyGyroJerk" "std" "Z" -0.344353104702143
+"sitting" "test" "tBodyGyroJerk" "std" "Z" -0.982864892851324
+"standing" "test" "tBodyGyroJerk" "std" "Z" -0.972075062631579
+"laying" "test" "tBodyGyroJerk" "std" "Z" -0.985304182718808
+"walking" "train" "tBodyGyroJerk" "std" "Z" -0.440865118262072
+"walking_upstairs" "train" "tBodyGyroJerk" "std" "Z" -0.56399488868932
+"walking_downstairs" "train" "tBodyGyroJerk" "std" "Z" -0.318832476117718
+"sitting" "train" "tBodyGyroJerk" "std" "Z" -0.984164647052877
+"standing" "train" "tBodyGyroJerk" "std" "Z" -0.978999994272198
+"laying" "train" "tBodyGyroJerk" "std" "Z" -0.984583429004975
+"walking" "test" "tBodyAccMag" "std" "mag" -0.355577474335887
+"walking_upstairs" "test" "tBodyAccMag" "std" "mag" -0.282505793501648
+"walking_downstairs" "test" "tBodyAccMag" "std" "mag" 0.0504083176412857
+"sitting" "test" "tBodyAccMag" "std" "mag" -0.9392153100611
+"standing" "test" "tBodyAccMag" "std" "mag" -0.940038000263158
+"laying" "test" "tBodyAccMag" "std" "mag" -0.949805818519553
+"walking" "train" "tBodyAccMag" "std" "mag" -0.33054317771252
+"walking_upstairs" "train" "tBodyAccMag" "std" "mag" -0.235551736910382
+"walking_downstairs" "train" "tBodyAccMag" "std" "mag" 0.144636835872059
+"sitting" "train" "tBodyAccMag" "std" "mag" -0.939365758525816
+"standing" "train" "tBodyAccMag" "std" "mag" -0.949050271871907
+"laying" "train" "tBodyAccMag" "std" "mag" -0.925425270312722
+"walking" "test" "tGravityAccMag" "std" "mag" -0.355577474335887
+"walking_upstairs" "test" "tGravityAccMag" "std" "mag" -0.282505793501648
+"walking_downstairs" "test" "tGravityAccMag" "std" "mag" 0.0504083176412857
+"sitting" "test" "tGravityAccMag" "std" "mag" -0.9392153100611
+"standing" "test" "tGravityAccMag" "std" "mag" -0.940038000263158
+"laying" "test" "tGravityAccMag" "std" "mag" -0.949805818519553
+"walking" "train" "tGravityAccMag" "std" "mag" -0.33054317771252
+"walking_upstairs" "train" "tGravityAccMag" "std" "mag" -0.235551736910382
+"walking_downstairs" "train" "tGravityAccMag" "std" "mag" 0.144636835872059
+"sitting" "train" "tGravityAccMag" "std" "mag" -0.939365758525816
+"standing" "train" "tGravityAccMag" "std" "mag" -0.949050271871907
+"laying" "train" "tGravityAccMag" "std" "mag" -0.925425270312722
+"walking" "test" "tBodyAccJerkMag" "std" "mag" -0.198067072712843
+"walking_upstairs" "test" "tBodyAccJerkMag" "std" "mag" -0.380950968793418
+"walking_downstairs" "test" "tBodyAccJerkMag" "std" "mag" -0.0450688652907857
+"sitting" "test" "tBodyAccJerkMag" "std" "mag" -0.977510406741344
+"standing" "test" "tBodyAccJerkMag" "std" "mag" -0.966123790845865
+"laying" "test" "tBodyAccJerkMag" "std" "mag" -0.974610375400372
+"walking" "train" "tBodyAccJerkMag" "std" "mag" -0.22122673901031
+"walking_upstairs" "train" "tBodyAccJerkMag" "std" "mag" -0.38735343572274
+"walking_downstairs" "train" "tBodyAccJerkMag" "std" "mag" 0.00319743123002028
+"sitting" "train" "tBodyAccJerkMag" "std" "mag" -0.9794403344479
+"standing" "train" "tBodyAccJerkMag" "std" "mag" -0.973516388609898
+"laying" "train" "tBodyAccJerkMag" "std" "mag" -0.974099433837953
+"walking" "test" "tBodyGyroMag" "std" "mag" -0.436169354776008
+"walking_upstairs" "test" "tBodyGyroMag" "std" "mag" -0.41269395604845
+"walking_downstairs" "test" "tBodyGyroMag" "std" "mag" -0.308151790967905
+"sitting" "test" "tBodyGyroMag" "std" "mag" -0.952093296334012
+"standing" "test" "tBodyGyroMag" "std" "mag" -0.91301937112782
+"laying" "test" "tBodyGyroMag" "std" "mag" -0.94755611895717
+"walking" "train" "tBodyGyroMag" "std" "mag" -0.36096832426354
+"walking_upstairs" "train" "tBodyGyroMag" "std" "mag" -0.303978179337558
+"walking_downstairs" "train" "tBodyGyroMag" "std" "mag" -0.227265452316329
+"sitting" "train" "tBodyGyroMag" "std" "mag" -0.950857575620529
+"standing" "train" "tBodyGyroMag" "std" "mag" -0.935924401841339
+"laying" "train" "tBodyGyroMag" "std" "mag" -0.937939730744847
+"walking" "test" "tBodyGyroJerkMag" "std" "mag" -0.525913731689919
+"walking_upstairs" "test" "tBodyGyroJerkMag" "std" "mag" -0.67288561866242
+"walking_downstairs" "test" "tBodyGyroJerkMag" "std" "mag" -0.464553224377857
+"sitting" "test" "tBodyGyroJerkMag" "std" "mag" -0.983877373299389
+"standing" "test" "tBodyGyroJerkMag" "std" "mag" -0.966851556766917
+"laying" "test" "tBodyGyroJerkMag" "std" "mag" -0.975261643500931
+"walking" "train" "tBodyGyroJerkMag" "std" "mag" -0.487888281890326
+"walking_upstairs" "train" "tBodyGyroJerkMag" "std" "mag" -0.664181538692451
+"walking_downstairs" "train" "tBodyGyroJerkMag" "std" "mag" -0.430866415856653
+"sitting" "train" "tBodyGyroJerkMag" "std" "mag" -0.984886442970451
+"standing" "train" "tBodyGyroJerkMag" "std" "mag" -0.976113861921397
+"laying" "train" "tBodyGyroJerkMag" "std" "mag" -0.977324912189055
+"walking" "test" "fBodyAcc" "std" "X" -0.331205812727218
+"walking_upstairs" "test" "fBodyAcc" "std" "X" -0.265071335268684
+"walking_downstairs" "test" "fBodyAcc" "std" "X" 0.0282587765922857
+"sitting" "test" "fBodyAcc" "std" "X" -0.983935781955193
+"standing" "test" "fBodyAcc" "std" "X" -0.984014116334586
+"laying" "test" "fBodyAcc" "std" "X" -0.963547345810056
+"walking" "train" "fBodyAcc" "std" "X" -0.319449560903263
+"walking_upstairs" "train" "fBodyAcc" "std" "X" -0.198615524473914
+"walking_downstairs" "train" "fBodyAcc" "std" "X" 0.161841907222363
+"sitting" "train" "fBodyAcc" "std" "X" -0.983675290902022
+"standing" "train" "fBodyAcc" "std" "X" -0.986574413391557
+"laying" "train" "fBodyAcc" "std" "X" -0.957307907502701
+"walking" "test" "fBodyAcc" "std" "Y" -0.0866828255034476
+"walking_upstairs" "test" "fBodyAcc" "std" "Y" -0.058797927424034
+"walking_downstairs" "test" "fBodyAcc" "std" "Y" -0.0548990607438095
+"sitting" "test" "fBodyAcc" "std" "Y" -0.928826696148676
+"standing" "test" "fBodyAcc" "std" "Y" -0.922115261618421
+"laying" "test" "fBodyAcc" "std" "Y" -0.959297968620112
+"walking" "train" "fBodyAcc" "std" "Y" -0.0733724623492251
+"walking_upstairs" "train" "fBodyAcc" "std" "Y" -0.00557541172054054
+"walking_downstairs" "train" "fBodyAcc" "std" "Y" 0.0116440806198682
+"sitting" "train" "fBodyAcc" "std" "Y" -0.933948759256143
+"standing" "train" "fBodyAcc" "std" "Y" -0.934624538980349
+"laying" "train" "fBodyAcc" "std" "Y" -0.936034910177683
+"walking" "test" "fBodyAcc" "std" "Z" -0.366538572371935
+"walking_upstairs" "test" "fBodyAcc" "std" "Z" -0.239259921773609
+"walking_downstairs" "test" "fBodyAcc" "std" "Z" -0.296229623796381
+"sitting" "test" "fBodyAcc" "std" "Z" -0.933819490450509
+"standing" "test" "fBodyAcc" "std" "Z" -0.928665948665414
+"laying" "test" "fBodyAcc" "std" "Z" -0.964355421625698
+"walking" "train" "fBodyAcc" "std" "Z" -0.267572362684095
+"walking_upstairs" "train" "fBodyAcc" "std" "Z" -0.105928929517437
+"walking_downstairs" "train" "fBodyAcc" "std" "Z" -0.224422769657505
+"sitting" "train" "fBodyAcc" "std" "Z" -0.934534156082426
+"standing" "train" "fBodyAcc" "std" "Z" -0.938062292598253
+"laying" "train" "fBodyAcc" "std" "Z" -0.938502036889055
+"walking" "test" "fBodyAccJerk" "std" "X" -0.242420560580565
+"walking_upstairs" "test" "fBodyAccJerk" "std" "X" -0.400132176654225
+"walking_downstairs" "test" "fBodyAccJerk" "std" "X" -0.139219708816221
+"sitting" "test" "fBodyAccJerk" "std" "X" -0.984772635397149
+"standing" "test" "fBodyAccJerk" "std" "X" -0.977860039473684
+"laying" "test" "fBodyAccJerk" "std" "X" -0.982173560986965
+"walking" "train" "fBodyAccJerk" "std" "X" -0.306296265538255
+"walking_upstairs" "train" "fBodyAccJerk" "std" "X" -0.384103045858528
+"walking_downstairs" "train" "fBodyAccJerk" "std" "X" -0.0578981617975233
+"sitting" "train" "fBodyAccJerk" "std" "X" -0.986724182511664
+"standing" "train" "fBodyAccJerk" "std" "X" -0.983361688056769
+"laying" "train" "fBodyAccJerk" "std" "X" -0.98256876949538
+"walking" "test" "fBodyAccJerk" "std" "Y" -0.0888750052252419
+"walking_upstairs" "test" "fBodyAccJerk" "std" "Y" -0.382397128219958
+"walking_downstairs" "test" "fBodyAccJerk" "std" "Y" -0.120492087281667
+"sitting" "test" "fBodyAccJerk" "std" "Y" -0.974082505132383
+"standing" "test" "fBodyAccJerk" "std" "Y" -0.961841590695489
+"laying" "test" "fBodyAccJerk" "std" "Y" -0.973895600260708
+"walking" "train" "fBodyAccJerk" "std" "Y" -0.0916769810447162
+"walking_upstairs" "train" "fBodyAccJerk" "std" "Y" -0.346762525466654
+"walking_downstairs" "train" "fBodyAccJerk" "std" "Y" -0.0790313050466197
+"sitting" "train" "fBodyAccJerk" "std" "Y" -0.976387838265941
+"standing" "train" "fBodyAccJerk" "std" "Y" -0.968763727401747
+"laying" "train" "fBodyAccJerk" "std" "Y" -0.972728982835821
+"walking" "test" "fBodyAccJerk" "std" "Z" -0.549313653548387
+"walking_upstairs" "test" "fBodyAccJerk" "std" "Z" -0.672740221974522
+"walking_downstairs" "test" "fBodyAccJerk" "std" "Z" -0.470596619978571
+"sitting" "test" "fBodyAccJerk" "std" "Z" -0.98325268293279
+"standing" "test" "fBodyAccJerk" "std" "Z" -0.979166264097744
+"laying" "test" "fBodyAccJerk" "std" "Z" -0.980879842532588
+"walking" "train" "fBodyAccJerk" "std" "Z" -0.488938910530661
+"walking_upstairs" "train" "fBodyAccJerk" "std" "Z" -0.656696754193849
+"walking_downstairs" "train" "fBodyAccJerk" "std" "Z" -0.432035778998519
+"sitting" "train" "fBodyAccJerk" "std" "Z" -0.983830467869362
+"standing" "train" "fBodyAccJerk" "std" "Z" -0.982416433216885
+"laying" "train" "fBodyAccJerk" "std" "Z" -0.981007056687989
+"walking" "test" "fBodyGyro" "std" "X" -0.533422340395161
+"walking_upstairs" "test" "fBodyGyro" "std" "X" -0.508328984061571
+"walking_downstairs" "test" "fBodyGyro" "std" "X" -0.414798335411905
+"sitting" "test" "fBodyGyro" "std" "X" -0.981948078452138
+"standing" "test" "fBodyGyro" "std" "X" -0.933147031785714
+"laying" "test" "fBodyGyro" "std" "X" -0.976403305605214
+"walking" "train" "fBodyGyro" "std" "X" -0.501130832201272
+"walking_upstairs" "train" "fBodyGyro" "std" "X" -0.489514621167474
+"walking_downstairs" "train" "fBodyGyro" "std" "X" -0.358229126788915
+"sitting" "train" "fBodyGyro" "std" "X" -0.98248034318818
+"standing" "train" "fBodyGyro" "std" "X" -0.952324284970888
+"laying" "train" "fBodyGyro" "std" "X" -0.967206952885572
+"walking" "test" "fBodyGyro" "std" "Y" -0.396217017188105
+"walking_upstairs" "test" "fBodyGyro" "std" "Y" -0.352975477855626
+"walking_downstairs" "test" "fBodyGyro" "std" "Y" -0.442949501905
+"sitting" "test" "fBodyGyro" "std" "Y" -0.965280836802444
+"standing" "test" "fBodyGyro" "std" "Y" -0.952000106052632
+"laying" "test" "fBodyGyro" "std" "Y" -0.961109421824953
+"walking" "train" "fBodyGyro" "std" "Y" -0.305965827883026
+"walking_upstairs" "train" "fBodyGyro" "std" "Y" -0.266935034348369
+"walking_downstairs" "train" "fBodyGyro" "std" "Y" -0.32730982482787
+"sitting" "train" "fBodyGyro" "std" "Y" -0.963557481329705
+"standing" "train" "fBodyGyro" "std" "Y" -0.962401947845706
+"laying" "train" "fBodyGyro" "std" "Y" -0.961463062750533
+"walking" "test" "fBodyGyro" "std" "Z" -0.455425174120968
+"walking_upstairs" "test" "fBodyGyro" "std" "Z" -0.288298632743737
+"walking_downstairs" "test" "fBodyGyro" "std" "Z" -0.404459674067143
+"sitting" "test" "fBodyGyro" "std" "Z" -0.958576115132383
+"standing" "test" "fBodyGyro" "std" "Z" -0.953564673195489
+"laying" "test" "fBodyGyro" "std" "Z" -0.972050234487896
+"walking" "train" "fBodyGyro" "std" "Z" -0.392421798877651
+"walking_upstairs" "train" "fBodyGyro" "std" "Z" -0.293684227338677
+"walking_downstairs" "train" "fBodyGyro" "std" "Z" -0.370165715908925
+"sitting" "train" "fBodyGyro" "std" "Z" -0.961967228561431
+"standing" "train" "fBodyGyro" "std" "Z" -0.96344778356623
+"laying" "train" "fBodyGyro" "std" "Z" -0.964692895927505
+"walking" "test" "fBodyAccMag" "std" "mag" -0.505450664375
+"walking_upstairs" "test" "fBodyAccMag" "std" "mag" -0.39041721744586
+"walking_downstairs" "test" "fBodyAccMag" "std" "mag" -0.130476071203333
+"sitting" "test" "fBodyAccMag" "std" "mag" -0.94208825496945
+"standing" "test" "fBodyAccMag" "std" "mag" -0.943924405018797
+"laying" "test" "fBodyAccMag" "std" "mag" -0.953138504479888
+"walking" "train" "fBodyAccMag" "std" "mag" -0.469706683062806
+"walking_upstairs" "train" "fBodyAccMag" "std" "mag" -0.349171321564772
+"walking_downstairs" "train" "fBodyAccMag" "std" "mag" -0.0519754917174949
+"sitting" "train" "fBodyAccMag" "std" "mag" -0.941966512135303
+"standing" "train" "fBodyAccMag" "std" "mag" -0.951799775699709
+"laying" "train" "fBodyAccMag" "std" "mag" -0.927962071920256
+"walking" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.201670204510645
+"walking_upstairs" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.421213315287049
+"walking_downstairs" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.0504212059297857
+"sitting" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.976917733543788
+"standing" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.965905446015038
+"laying" "test" "fBodyBodyAccJerkMag" "std" "mag" -0.973586610782123
+"walking" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.229687911080799
+"walking_upstairs" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.439910272754185
+"walking_downstairs" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.0387999123583974
+"sitting" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.978627076430793
+"standing" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.972900383770015
+"laying" "train" "fBodyBodyAccJerkMag" "std" "mag" -0.97302950880597
+"walking" "test" "fBodyBodyGyroMag" "std" "mag" -0.52913161384879
+"walking_upstairs" "test" "fBodyBodyGyroMag" "std" "mag" -0.460677679282378
+"walking_downstairs" "test" "fBodyBodyGyroMag" "std" "mag" -0.407172196497619
+"sitting" "test" "fBodyBodyGyroMag" "std" "mag" -0.95254545598778
+"standing" "test" "fBodyBodyGyroMag" "std" "mag" -0.914716719605263
+"laying" "test" "fBodyBodyGyroMag" "std" "mag" -0.95021154301676
+"walking" "train" "fBodyBodyGyroMag" "std" "mag" -0.451461098451794
+"walking_upstairs" "train" "fBodyBodyGyroMag" "std" "mag" -0.346609728583225
+"walking_downstairs" "train" "fBodyBodyGyroMag" "std" "mag" -0.341661716555527
+"sitting" "train" "fBodyBodyGyroMag" "std" "mag" -0.951296691880249
+"standing" "train" "fBodyBodyGyroMag" "std" "mag" -0.936800772816594
+"laying" "train" "fBodyBodyGyroMag" "std" "mag" -0.939025835269367
+"walking" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.546820470782661
+"walking_upstairs" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.706477443375796
+"walking_downstairs" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.494187116095476
+"sitting" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.98400311509165
+"standing" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.967361696372181
+"laying" "test" "fBodyBodyGyroJerkMag" "std" "mag" -0.975401442439479
+"walking" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.501290499908646
+"walking_upstairs" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.701593753741845
+"walking_downstairs" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.483144255183296
+"sitting" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.984677767993779
+"standing" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.975822682598253
+"laying" "train" "fBodyBodyGyroJerkMag" "std" "mag" -0.977124064577114
